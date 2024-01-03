@@ -1,0 +1,2301 @@
+Unicode,Kanji,KLC,Heisig old,Heisig 6th Ed,KLC name
+65e5,日,1,12,12,"sun, day, Japan"
+4e00,一,2,1,1,one
+4e8c,二,3,2,2,two
+4e09,三,4,3,3,three
+5341,十,5,10,10,ten
+56db,四,6,4,4,four
+4e94,五,7,5,5,five
+516d,六,8,6,6,six
+4e03,七,9,7,7,seven
+516b,八,10,8,8,eight
+4e5d,九,11,9,9,nine
+4e38,丸,12,44,44,round
+5186,円,13,1811,1952,"circle, yen"
+3007,〇,14,,,"zero, circle mark"
+4eba,人,15,951,1023,human being
+767e,百,16,38,38,hundred
+5343,千,17,40,40,thousand
+4e07,万,18,64,68,ten thousand
+53e3,口,19,11,11,mouth
+7530,田,20,14,14,rice field
+76ee,目,21,15,15,"eye, item"
+5ddd,川,22,127,134,river
+6708,月,23,13,13,"moon, month"
+660e,明,24,20,20,"bright, clear"
+66dc,曜,25,576,618,day of the week
+706b,火,26,161,173,fire
+6c34,水,27,130,137,water
+6728,木,28,195,207,"tree, wood"
+91d1,金,29,269,287,"metal, gold, money"
+571f,土,30,150,161,soil
+672c,本,31,211,224,"basis, book, this"
+6771,東,32,504,543,east
+5927,大,33,107,112,"big, university"
+5c0f,小,34,105,110,small
+4e2d,中,35,39,39,"middle, in, China"
+751f,生,36,1555,1675,"life, be born, student"
+5c71,山,37,768,830,mountain
+51fa,出,38,767,829,"go out, put out"
+5165,入,39,779,842,"enter, put in"
+4e0b,下,40,50,51,down
+4e0a,上,41,49,50,up
+6b62,止,42,370,396,stop
+6b63,正,43,379,405,"right, correct"
+8db3,足,44,1279,1372,"foot, suffice"
+5b9a,定,45,382,408,fix
+624b,手,46,637,687,"hand, performer of an action"
+7528,用,47,1181,1265,"employ, things to do"
+7121,無,48,1775,1913,"without, nothing"
+4e0d,不,49,1217,1302,not
+56de,回,50,586,630,"turn round, time"
+8a00,言,51,335,357,"say, speech"
+820c,舌,52,41,41,tongue
+8a71,話,53,344,368,speak
+6d3b,活,54,143,154,"active, live"
+884c,行,55,873,938,"go, act, line (of print)"
+5fc3,心,56,595,639,heart
+8033,耳,57,818,881,ear
+53c8,又,58,696,752,"again, or"
+53d6,取,59,819,882,take
+8eab,身,60,1248,1337,"body, one's person, social position"
+4f11,休,61,965,1038,rest
+4f53,体,62,957,1030,"body, form"
+4fe1,信,63,969,1043,"believe, message"
+4ed8,付,64,1000,1075,attach
+53d7,受,65,735,794,receive
+4ee5,以,66,1028,1105,"by means of, to the...of"
+7acb,立,67,431,462,"stand, establish"
+90e8,部,68,1845,1988,section
+500d,倍,69,992,1067,"times, double"
+6210,成,70,361,386,"become, achieve"
+4ee3,代,71,1005,1080,"replace, generation, charge"
+738b,王,72,255,271,king
+7389,玉,73,256,272,gem
+5b9d,宝,74,257,273,treasure
+56fd,国,75,581,624,country
+767d,白,76,37,37,white
+7687,皇,77,261,279,emperor
+5168,全,78,263,281,whole (all)
+66f8,書,79,327,349,"write, book"
+4e8b,事,80,1156,1240,"affair, abstract thing"
+81ea,自,81,36,36,self
+8c9d,貝,82,54,56,shellfish
+898b,見,83,57,61,see
+529b,力,84,858,922,power
+5200,刀,85,83,87,sword
+5207,切,86,85,89,cut
+5203,刃,87,84,88,blade
+5206,分,88,781,844,"divide, part, minute"
+516c,公,89,784,847,public
+5225,別,90,90,94,"separate, another"
+9577,長,91,1920,2070,"long, chief (senior)"
+7537,男,92,859,923,man
+5973,女,93,98,102,woman
+5b50,子,94,95,99,child
+597d,好,95,99,103,"like, favorable"
+5b89,安,96,190,202,"peaceful, inexpensive"
+6848,案,97,214,227,proposal (plan)
+5b57,字,98,185,197,character
+5b66,学,99,324,346,"study, school"
+7236,父,100,1274,1366,father
+6587,文,101,1725,1861,"writings, letter"
+4ea4,交,102,1275,1368,"intercourse, cross (intersect)"
+6821,校,103,1278,1371,school
+6bcd,母,104,101,105,mother
+6bce,毎,105,458,497,every
+6d77,海,106,461,500,sea
+8005,者,107,1256,1345,person
+5de5,工,108,76,80,"manufacture, construction"
+5f0f,式,109,353,377,"form, ceremony, formula"
+5f10,弐,110,355,379,two (in legal documents)
+6b66,武,111,377,403,military
+7cf8,糸,112,1333,1431,thread
+524d,前,113,290,309,before
+5f8c,後,114,1379,1479,after
+5348,午,115,568,610,"noon, sign of the horse"
+725b,牛,116,245,260,cattle
+5e74,年,117,1036,1114,year
+4ef6,件,118,959,1032,matter (case)
+6761,条,119,298,319,article
+5316,化,120,1008,1083,change into
+82b1,花,121,1009,1084,flower
+5317,北,122,445,480,north
+6bd4,比,123,447,482,compare
+80cc,背,124,446,481,back
+8eca,車,125,286,304,"vehicle (car), wheel"
+6c17,気,126,1885,2030,"gas, spirit"
+6c7d,汽,127,1886,2031,steam
+6027,性,128,1558,1679,"nature, gender"
+7551,畑,129,166,178,(cultivated) field
+9752,青,130,1534,1654,"blue, green"
+9ea6,麦,131,1533,1653,wheat
+7d20,素,132,1532,1652,"element, plain (bare)"
+6bd2,毒,133,1531,1651,poison
+5148,先,134,248,263,ahead of (previous)
+6d17,洗,135,249,264,wash
+5143,元,136,59,63,origin
+5149,光,137,119,125,light
+53bb,去,138,750,812,go away
+6cd5,法,139,751,813,"law, method"
+8d70,走,140,384,410,run
+5f53,当,141,1153,1236,"the present, hit (the mark)"
+601d,思,142,605,651,think
+65e9,早,143,26,26,"early, quick"
+8349,草,144,224,238,grass
+671d,朝,145,52,53,"morning, dynasty"
+6f6e,潮,146,141,152,(morning) tide
+5f62,形,147,1711,1847,shape
+767a,発,148,1705,1840,"start, emit, open up"
+5ec3,廃,149,1706,1841,"abandon, waste"
+97f3,音,150,479,518,sound
+610f,意,151,608,654,"mind, meaning"
+4f5c,作,152,1142,1224,"make, work"
+6628,昨,153,1140,1222,"yesterday, last"
+96e8,雨,154,422,451,rain
+96fb,電,155,535,574,electricity
+9801,頁,156,60,64,page
+9996,首,157,70,74,"head, neck, leader"
+9053,道,158,277,295,way
+901a,通,159,1408,1511,"pass (through), communicate"
+4e73,乳,160,729,786,milk
+8c46,豆,161,1440,1548,bean
+982d,頭,162,1441,1549,head
+4e88,予,163,1593,1719,in advance
+77db,矛,164,1225,1311,halberd
+9810,預,165,1595,1721,deposit
+53e5,句,166,65,69,"phrase, haiku"
+65ec,旬,167,67,71,ten-day period
+52fa,勺,168,68,72,shaku (0.018L)
+7684,的,169,69,73,target
+7d04,約,170,1362,1462,"promise, shorten, approximately"
+52ff,勿,171,1049,1128,do not
+7269,物,172,1050,1129,thing
+65b9,方,173,490,529,"direction, way, square"
+9632,防,174,1302,1399,defend against
+9762,面,175,1892,2039,face
+753b,画,176,1170,1254,"picture, draw up a plan"
+4e21,両,177,1168,1252,both
+5ca1,岡,178,1961,2112,hill
+6e80,満,179,1169,1253,full (whole)
+9854,顔,180,1717,1853,face
+7523,産,181,1560,1681,"give birth, produce"
+540c,同,182,180,192,same (similar)
+5411,向,183,183,195,turn toward
+5c1a,尚,184,184,196,"still more, value highly"
+9ad8,高,185,307,329,"high, amount"
+5727,圧,186,152,163,pressure
+5730,地,187,515,554,"ground, place"
+6c60,池,188,516,555,pond
+4ed6,他,189,961,1034,other
+96c6,集,190,559,601,gather (collect)
+9032,進,191,561,603,advance
+8fbc,込,192,780,843,move inward
+65a4,斤,193,1125,1206,kin (600g)
+8fd1,近,194,1129,1210,"near, recent"
+8fba,辺,195,284,302,"vicinity, borderland"
+6700,最,196,821,884,most
+76bf,皿,197,1447,1555,plate
+8840,血,198,1448,1556,blood
+6e29,温,199,1452,1560,warm
+6e7f,湿,200,1788,1927,moist
+722a,爪,201,727,784,claw
+74dc,瓜,202,1877,2022,melon
+5dfe,巾,203,2101,432,cloth
+5e03,布,204,405,433,"cloth, spread"
+5e02,市,205,412,440,"city, market"
+540a,吊,206,2171,2289,hang
+6cc9,泉,207,133,140,spring (water)
+539f,原,208,134,142,"plain (field), original"
+6e90,源,209,142,153,source (origin)
+7dda,線,210,1339,1438,line
+7dbf,綿,211,1367,1467,cotton
+7d79,絹,212,1368,1468,silk
+9326,錦,213,411,439,brocade
+9858,願,214,135,143,"wish, ask a favor"
+5185,内,215,1019,1095,inside
+8089,肉,216,1022,1098,flesh
+732a,猪,217,1262,1352,wild boar
+8c5a,豚,218,538,577,pig
+5bb6,家,219,541,580,"house, family"
+543e,吾,220,17,17,"ego, I"
+6211,我,221,640,690,self
+8a9e,語,222,347,371,"word, language, tell"
+4f1d,伝,223,963,1036,transmit
+8ee2,転,224,420,449,turn
+82b8,芸,225,421,450,art
+4f1a,会,226,752,814,"meet, society"
+5408,合,227,253,269,"combine, fit"
+4eca,今,228,1587,1711,"present (now), this"
+4ee4,令,229,1401,1503,command
+5ff5,念,230,1590,1715,thoughts
+5370,印,231,1425,1530,seal (mark)
+547d,命,232,1400,1502,"order, life, fate"
+4ea1,亡,233,485,524,deceased
+7c73,米,234,919,987,"rice, america"
+7c92,粒,235,922,990,grain
+548c,和,236,897,963,"harmonious, peace, japan"
+79c1,私,237,902,968,"private, I"
+5e83,広,238,739,799,wide (spacious)
+7d30,細,239,1363,1463,"slender, minute"
+6797,林,240,196,208,forest
+68ee,森,241,197,209,thick woods
+677e,松,242,785,848,pine
+7af9,竹,243,937,1007,bamboo
+90fd,都,244,1846,1989,"metropolis, tokyo"
+4eac,京,245,312,334,"capital, tokyo, kyoto"
+653f,政,246,381,407,political administration
+5e9c,府,247,1002,1077,"urban prefecture, government office"
+6238,戸,248,1076,1157,"door, household"
+6240,所,249,1127,1208,place (point)
+81f3,至,250,753,815,"come to, utmost"
+81f4,致,251,756,818,"bring about (lead to), do humbly"
+5c4b,屋,252,1058,1138,"house, small shop"
+5ba4,室,253,754,816,room
+53e4,古,254,16,16,old
+5c45,居,255,1063,1143,"be present, reside"
+5c40,局,256,1066,1147,"bureau, limited part, situation"
+6545,故,257,333,355,"old, incident, reason (cause)"
+80e1,胡,258,2470,2537,natives of ancient china
+6e56,湖,259,148,159,lake
+56fa,固,260,580,622,"solid, firm"
+7b87,箇,261,2029,2185,counter for items
+500b,個,262,973,1047,"individual, general counter"
+4e14,且,263,2034,2190,as well as (moreover)
+7d44,組,264,1776,1914,"organize, assemble"
+5915,夕,265,109,114,evening
+5916,外,266,111,116,outside
+591a,多,267,108,113,many
+6c50,汐,268,110,115,evening tide
+540d,名,269,112,117,name
+5929,天,270,428,457,heaven
+672a,未,271,216,229,not yet
+672b,末,272,217,230,last part (end)
+5473,味,273,219,233,taste
+6765,来,274,1884,2029,come
+65b0,新,275,1502,1619,new
+89aa,親,276,1504,1621,"parent, relatives, intimate"
+6b20,欠,277,466,505,lack (want)
+6b21,次,278,471,510,next
+5e2d,席,279,1193,1277,seat
+5ea6,度,280,1194,1278,"degree, time"
+6e21,渡,281,1195,1279,cross (ford)
+9650,限,282,1466,1576,limit
+9280,銀,283,1459,1569,silver
+6839,根,284,1461,1571,root
+826f,良,285,1468,1578,good
+90ce,郎,286,1851,1995,"young man, male name suffix"
+5eca,廊,287,1852,1996,corridor
+98df,食,288,1472,1582,"eat, food"
+98f2,飲,289,1474,1584,drink
+5b98,官,290,1271,1363,"government, government official"
+9928,館,291,1478,1589,public building
+5bbf,宿,292,995,1070,lodge
+72ac,犬,293,238,253,dog
+592a,太,294,120,126,"great, thick (fat)"
+5668,器,295,121,127,"vessel (container), instrument"
+51f6,凶,296,1490,1603,"misfortune, evil"
+533a,区,297,1696,1831,"divide into sections, district, ward"
+56f3,図,298,1180,1264,drawing (plan)
+756a,番,299,1909,2058,"numerical order, watch (duty)"
+53f7,号,300,1242,1330,"number, designation, sign"
+54c1,品,301,23,23,"article, grade of excellence, classification"
+697d,楽,302,1735,1872,"pleasure, comfortable, music"
+85ac,薬,303,1736,1873,drug
+5468,周,304,317,339,periphery (around)
+9031,週,305,318,340,week
+8abf,調,306,349,373,"tone, investigate, prepare"
+675f,束,307,1664,1793,"tie up, bundle"
+6574,整,308,1670,1800,put in order
+6570,数,309,929,998,number
+985e,類,310,931,1000,kind (type)
+793a,示,311,1086,1167,show
+7981,禁,312,1098,1179,prohibit
+793c,礼,313,1087,1168,"etiquette, rite"
+793e,社,314,1092,1173,"company, society, shinto shrine"
+7533,申,315,1117,1198,"report (to a superior), speak humbly"
+795e,神,316,1119,1200,god
+54e1,員,317,56,59,member (personnel)
+8cea,質,318,1137,1219,"quality, matter, pawn"
+515a,党,319,797,860,party (political)
+5802,堂,320,798,861,hall
+5e38,常,321,799,862,"normal, regular"
+8cde,賞,322,796,859,prize
+511f,償,323,985,1060,recompense
+638c,掌,324,801,864,"palm of one's hand, take charge of"
+899a,覚,325,325,347,"perceive, wake up, commit to memory"
+609f,悟,326,622,669,awake to (comprehend)
+611f,感,327,615,662,sense (feel)
+592e,央,328,1740,1877,center
+6620,映,329,1742,1879,"reflect, project"
+6c7a,決,330,1641,1770,decide
+5feb,快,331,1642,1771,pleasant
+82f1,英,332,1741,1878,"distinguished, england"
+4e26,並,333,1785,1924,line up
+5e73,平,334,1484,1596,"flat, calm"
+534a,半,335,1202,1286,half
+99ac,馬,336,1978,2132,horse
+5c3a,尺,337,1070,1151,shaku (30.3cm)
+5c3d,尽,338,1071,1152,exhaust
+99c5,駅,339,1984,2138,station
+9ce5,鳥,340,1941,2091,bird
+5cf6,島,341,1948,2098,island
+89d2,角,342,1812,1953,"angle, horn"
+866b,虫,343,517,556,insect
+89e6,触,344,1813,1954,touch
+89e3,解,345,1814,1955,"take apart, dissolve, clarify"
+72ec,独,346,522,561,alone
+5e97,店,347,588,632,shop
+5360,占,348,48,49,"occupy, divine"
+70b9,点,349,169,181,point
+58eb,士,350,319,341,"military man, man of learning"
+5546,商,351,439,471,trade (commerce)
+8cb7,買,352,831,894,buy
+58f2,売,353,323,345,sell
+7d9a,続,354,1345,1445,continue
+8aad,読,355,348,372,read
+5171,共,356,1795,1934,joint (together)
+4f9b,供,357,1796,1935,offer (submit)
+6d2a,洪,358,1799,1939,flood
+6614,昔,359,1184,1268,former times
+51ac,冬,360,427,456,winter
+5bd2,寒,361,1526,1645,cold
+6625,春,362,1568,1690,spring
+590f,夏,363,296,317,summer
+79cb,秋,364,900,966,autumn
+4e3b,主,365,266,284,"main, lord (master)"
+4f4f,住,366,954,1027,live (inhabit)
+99d0,駐,367,1982,2136,stationed
+6ce8,注,368,267,285,"pour, concentrate"
+5fd7,志,369,600,645,ambition
+8a8c,誌,370,601,646,magazine
+4ed5,仕,371,960,1033,"serve, do"
+4efb,任,372,1003,1078,"office, entrust"
+652f,支,373,711,768,"branch, support, be obstructed"
+53cd,反,374,722,779,counter (against)
+5742,坂,375,723,780,slope
+962a,阪,376,1294,1390,slope
+98ef,飯,377,1473,1583,"cooked rice, meal"
+8fd4,返,378,725,782,return
+96d1,雑,379,562,604,"miscellaneous, mixed"
+4e71,乱,380,72,76,disordered
+5bf8,寸,381,45,45,"a bit of, sun (3.03cm)"
+5bfa,寺,382,158,170,buddhist temple
+6642,時,383,159,171,time
+6301,持,384,660,712,"hold (have, keep)"
+7279,特,385,246,261,special
+5f85,待,386,879,944,wait
+5f97,得,387,876,941,"acquire, gain"
+4f8d,侍,388,976,1050,"attend upon, samurai"
+8a69,詩,389,346,370,poetry
+5373,即,390,1462,1572,"immediate, namely"
+7bc0,節,391,1464,1574,"joint, section, season"
+7b4b,筋,392,941,1012,"muscle, threadlike structure"
+7b49,等,393,945,1016,"equal, class (grade)"
+5747,均,394,160,172,"equal (even, uniform)"
+5b63,季,395,912,978,season
+59d4,委,396,913,979,commit
+7a74,穴,397,1316,1413,hole (cave)
+7a7a,空,398,1317,1414,"sky, air, empty"
+53cb,友,399,704,760,friend
+6709,有,400,79,83,"have (exist, there is)"
+5de6,左,401,77,81,left
+53f3,右,402,78,82,right
+77f3,石,403,113,118,stone
+82e5,若,404,223,237,young
+82e6,苦,405,225,239,"suffering, bitter"
+5728,在,406,685,740,be (reside)
+5b58,存,407,684,739,exist
+5e72,干,408,1648,1777,dry
+520a,刊,409,1650,1779,publish
+6c57,汗,410,1651,1780,sweat
+7aff,竿,411,2632,2676,pole
+5229,利,412,906,972,"advantage, profit"
+5bb3,害,413,1551,1671,harm
+76ca,益,414,1881,2026,benefit
+6ea2,溢,415,2315,2408,spill over
+5272,割,416,1553,1673,divide (break)
+61b2,憲,417,1554,1674,constitution
+7fbd,羽,418,573,615,"feather, wing"
+7fcc,翌,419,575,617,the following
+7fd2,習,420,574,616,"learn, custom"
+5f13,弓,421,1231,1317,bow
+5f15,引,422,1232,1318,"draw (toward or back), reduce"
+5f37,強,423,1235,1321,strong
+5f31,弱,424,1236,1323,weak
+98a8,風,425,524,563,"wind, manner"
+5df1,己,426,525,564,oneself
+8a18,記,427,529,568,write down
+7d00,紀,428,1354,1454,"era, discipline"
+6539,改,429,528,567,reform
+8d77,起,430,526,565,"rise, occur"
+59d3,姓,431,1557,1678,surname
+7531,由,432,1105,1186,reason (cause)
+6cb9,油,433,1107,1188,oil
+4e95,井,434,1806,1946,well
+56f2,囲,435,1807,1948,enclose
+4e3c,丼,436,2884,1947,bowl (of food)
+4e01,丁,437,91,95,"town subsection, miscellaneous counter"
+5be7,寧,438,834,897,"courteous, peaceful"
+753a,町,439,92,96,town
+706f,灯,440,165,177,lamp
+5e81,庁,441,591,635,government agency
+8caf,貯,442,194,206,store up (save)
+6613,易,443,1051,1130,"easy, exchange, fortune-telling"
+8cdc,賜,444,1052,1131,deign to give (bestow)
+5834,場,445,545,584,place
+6e6f,湯,446,546,585,hot water
+9580,門,447,1616,1743,gate
+9593,間,448,1620,1747,space in between
+9589,閉,449,1623,1751,close
+958b,開,450,1622,1750,open
+95a2,関,451,2017,2173,"connect with, barrier"
+554f,問,452,1617,1744,question
+805e,聞,453,1626,1754,hear
+8a2a,訪,454,495,534,visit
+9001,送,455,2016,2172,send (transmit)
+5238,券,456,1206,1291,"ticket, certificate"
+5305,包,457,530,569,"wrap, encompass"
+5dfb,巻,458,1207,1292,"roll up (wind), volume"
+570f,圏,459,1208,1293,"sphere, range"
+52dd,勝,460,1209,1294,"win, excel"
+6226,戦,461,1929,2079,"war (battle, contest)"
+5358,単,462,1928,2078,single
+7c21,簡,463,1621,1749,simple
+904e,過,464,1293,1389,"pass by, exceed"
+9aa8,骨,465,1288,1383,bone
+663c,昼,466,1075,1156,daytime (midday)
+591c,夜,467,1037,1115,night
+6db2,液,468,1038,1116,liquid
+6212,戒,469,676,730,caution (warn)
+5e7e,幾,470,1381,1481,"how many, some"
+757f,畿,471,2887,1483,capital region
+78ef,磯,472,2594,2640,rocky beach
+6a5f,機,473,1382,1482,"machine, aircraft, opportunity"
+68b0,械,474,677,732,mechanical contrivance
+98db,飛,475,1887,2032,fly
+6c0f,氏,476,1828,1970,"family, courtesy title"
+6c11,民,477,1834,1976,"people (nation, race)"
+7d19,紙,478,1829,1971,paper
+4f4e,低,479,1831,1973,low
+62b5,抵,480,1832,1974,resist
+90b8,邸,481,1841,1984,stately residence
+5e95,底,482,1833,1975,bottom
+5de8,巨,483,856,920,giant
+81e3,臣,484,848,911,retainer (subject)
+57fa,基,485,1767,1904,base (foundation)
+671f,期,486,1765,1902,"term (period), expect"
+6bdb,毛,487,1913,2062,hair
+5c3e,尾,488,1915,2064,tail
+80b2,育,489,759,821,raise
+7f8a,羊,490,547,586,sheep
+6d0b,洋,491,549,588,"ocean, western (foreign)"
+9b5a,魚,492,171,183,fish
+9bae,鮮,493,551,590,"fresh, vivid"
+8607,蘇,494,2380,2463,revive
+8a73,詳,495,550,589,detailed
+7965,祥,496,1088,1169,auspicious
+7f8e,美,497,548,587,beautiful
+696d,業,498,1792,1931,"work, business, industry"
+5b9f,実,499,1572,1694,"real, fruit"
+990a,養,500,1479,1591,foster (raise)
+69d8,様,501,933,1003,"mode (way of doing), formal title (sama)"
+4f01,企,502,375,401,scheme
+66f2,曲,503,1172,1256,"musical composition, curve"
+5178,典,504,1827,1969,standard work
+8208,興,505,1426,1533,"rise to prosperity, amusement"
+8f3f,輿,506,2860,2874,palanquin
+7adc,竜,507,536,575,dragon
+6edd,滝,508,537,576,waterfall
+7c60,籠,509,,1022,"basket, confine in"
+8fb0,辰,510,2008,2164,sign of the dragon
+8fb2,農,511,2014,2170,farming
+6fc3,濃,512,2015,2171,thick
+8c4a,豊,513,1443,1551,abundant
+5409,吉,514,320,342,lucky
+8a70,詰,515,343,367,"stuff, reprimand"
+7d50,結,516,1351,1451,"tie, conclude"
+6295,投,517,706,762,"throw, send in"
+5f79,役,518,884,949,service
+6ca1,没,519,707,763,sink
+8a2d,設,520,708,765,set up (establish)
+6bb5,段,521,1859,2003,step
+6bba,殺,522,1493,1607,kill
+5239,刹,523,2144,1601,temple
+5208,刈,524,1488,1600,clip
+7d75,絵,525,1346,1446,picture
+7d66,給,526,1349,1449,"supply, pay"
+5df4,巴,527,2096,2237,circular comma pattern
+8272,色,528,1753,1890,"color, eros"
+58f0,声,529,1896,2044,voice
+7709,眉,530,2583,2045,eyebrow
+91cc,里,531,173,185,"village, league (3.9km)"
+7406,理,532,265,283,"reason (logic), basic principle (law), manage"
+57cb,埋,533,179,191,bury
+91ce,野,534,1596,1722,"field, wild"
+9ed2,黒,535,174,186,black
+58a8,墨,536,175,187,india ink
+7ae5,童,537,436,468,child
+91cf,量,538,177,189,quantity
+91cd,重,539,1675,1805,"heavy, pile on top of"
+52d5,動,540,1676,1806,move
+50cd,働,541,1678,1809,work
+52b4,労,542,860,924,labor
+5354,協,543,872,937,cooperate
+7a2e,種,544,1679,1810,"variety (type), seed"
+4e9c,亜,545,1809,1950,"sub-, phonetic a"
+60aa,悪,546,1810,1951,bad
+8981,要,547,1604,1730,"important, summarize, require"
+4fa1,価,548,1603,1729,"price, value"
+5fc5,必,549,635,685,without fail
+8a3c,証,550,380,406,"prove, certificate"
+6b6a,歪,551,2862,2875,distort
+5426,否,552,1218,1303,"say no, or not"
+51e6,処,553,297,318,deal with
+62e0,拠,554,669,722,grounds (basis)
+8a08,計,555,337,359,"plan, compute (calculate)"
+91dd,針,556,274,292,needle
+7dcf,総,557,1366,1466,"whole (total), general"
+7a93,窓,558,749,811,window
+77e2,矢,559,1220,1305,arrow
+77e5,知,560,1223,1308,know
+533b,医,561,1694,1829,"medicine, doctor"
+77ed,短,562,1442,1550,short
+5931,失,563,845,908,"lose, slip"
+9244,鉄,564,846,909,iron
+592b,夫,565,838,901,"husband, man laborer"
+6731,朱,566,221,235,vermilion
+682a,株,567,222,236,stock
+65cf,族,568,1222,1307,family
+65c5,旅,569,1048,1127,travel
+904a,遊,570,1047,1126,"play, tour"
+65bd,施,571,1045,1124,"execute, bestow"
+65cb,旋,572,1046,1125,gyrate
+65d7,旗,573,1764,1901,flag
+653e,放,574,496,535,let go
+6fc0,激,575,497,536,"violent, arouse (excite)"
+7267,牧,576,329,351,pasture
+4f4d,位,577,955,1028,"rank, position"
+6ce3,泣,578,432,463,cry
+7b11,笑,579,938,1008,"laugh, smile"
+5c02,専,580,46,47,exclusively
+6075,恵,581,612,659,favor (kindness)
+9023,連,582,287,305,"link (connect), in succession"
+8ecd,軍,583,301,323,army
+904b,運,584,303,325,"carry, move, fortune (fate)"
+84ee,蓮,585,2360,2446,lotus
+968a,隊,586,1306,1403,party (corps)
+5448,呈,587,262,280,present
+7a0b,程,588,894,960,"extent, established form"
+8056,聖,589,825,888,"holy, saint"
+4e11,丑,590,2040,2197,sign of the ox
+7d10,紐,591,2661,2703,string (cord)
+9769,革,592,1893,2041,"leather, reform"
+9774,靴,593,1894,2042,shoes
+9784,鞄,594,2785,2806,"suitcase, bag"
+76ae,皮,595,802,865,skin
+7834,破,596,806,869,break
+5f7c,彼,597,883,948,"third person pronoun, boyfriend, girlfriend"
+6ce2,波,598,803,866,wave (undulation)
+679c,果,599,1121,1202,"fruit, accomplish"
+8ab2,課,600,1123,1204,"assignment (task, lesson), assign (impose, levy)"
+5de3,巣,601,1927,2077,nest
+83d3,菓,602,1122,1203,confectionery
+8336,茶,603,252,267,tea
+4e16,世,604,28,28,"world, age (generation)"
+8449,葉,605,228,243,leaf
+68c4,棄,606,758,820,abandon (throw away)
+7dd1,緑,607,1371,1471,green
+9332,録,608,1144,1226,record
+5265,剥,609,2145,1227,strip off
+7e01,縁,610,1372,1472,"relation, edge"
+4ecb,介,611,250,265,mediate
+754c,界,612,251,266,"world, bounds"
+6d6e,浮,613,730,787,floating
+5c06,将,614,731,789,general officer
+5968,奨,615,732,790,encourage
+72b6,状,616,239,254,"form, condition, letter (note)"
+75c5,病,617,1682,1813,illness
+75c7,症,618,1685,1816,pathological condition
+75db,痛,619,1690,1825,"pain, acute"
+61b6,憶,620,632,679,remember
+81c6,臆,621,2460,655,feel timid
+5104,億,622,983,1058,hundred million
+8996,視,623,1093,1174,look at
+898f,規,624,841,904,regulation
+5247,則,625,88,92,rule (law)
+5074,側,626,975,1049,side
+6e2c,測,627,149,160,"measure, conjecture (estimate)"
+8003,考,628,1252,1341,think
+8001,老,629,1251,1340,old
+5b5d,孝,630,1253,1342,filial piety
+539a,厚,631,125,132,"thick, kind"
+6559,教,632,1254,1343,"teach, religion"
+5b8c,完,633,187,199,complete
+9662,院,634,1304,1401,institution
+5948,奈,635,1094,1175,phonetic na
+5b97,宗,636,1100,1181,religious sect
+796d,祭,637,1102,1183,festival
+969b,際,638,1296,1392,"verge (edge), occasion"
+5bdf,察,639,1103,1184,"inspect (observe), guess (judge)"
+7948,祈,640,1128,1209,pray
+7956,祖,641,1779,1918,ancestor
+52a9,助,642,1782,1921,help (save)
+4ef2,仲,643,956,1029,"intermediary, personal relations"
+5fe0,忠,644,602,648,loyalty
+6c96,沖,645,138,146,open sea
+4fdd,保,646,997,1072,preserve
+5446,呆,647,2181,2297,dumb (dumbfounded)
+5b88,守,648,186,198,protect
+56e3,団,649,582,625,"collective (group, organization)"
+5bfe,対,650,1726,1862,"opposite, oppose"
+6751,村,651,208,221,village
+624d,才,652,681,736,"talent, -years old"
+8ca1,財,653,682,737,wealth
+6750,材,654,683,738,"timber, material"
+6c88,沈,655,1888,2033,sink
+6795,枕,656,2472,2034,pillow
+4e08,丈,657,691,746,"stature, stout"
+6756,杖,658,2504,2566,cane
+5049,偉,659,1643,1772,great (eminent)
+7def,緯,660,1645,1774,latitude
+885b,衛,661,1646,1775,guard
+97d3,韓,662,1647,1776,(south) korea
+9055,違,663,1644,1773,"differ, violate"
+62b1,抱,664,645,697,hold (in one's arms)
+7832,砲,665,532,571,heavy gun
+6ce1,泡,666,533,572,bubble
+4e39,丹,667,2038,2195,"cinnabar red, wholeheartedly"
+821f,舟,668,1868,2012,small boat
+8239,船,669,1874,2019,ship
+8236,舶,670,1869,2013,oceangoing ship
+822c,般,671,1871,2016,sort (kind)
+642c,搬,672,1873,2018,carry
+76e4,盤,673,1872,2017,"disk, board"
+6b6f,歯,674,1171,1255,tooth
+51b7,冷,675,1404,1506,cold
+9f62,齢,676,1403,1505,age
+5c11,少,677,106,111,little
+7802,砂,678,117,122,sand
+6b69,歩,679,371,397,walk
+6e09,渉,680,372,398,have relations with
+7701,省,681,124,131,"ministry, save (cut down on), introspect (reflect)"
+76f8,相,682,209,222,"aspect, mutual, minister (of state)"
+60f3,想,683,609,656,conceive
+79f0,称,684,905,971,appellation
+5f25,弥,685,2241,1322,"phonetic mi, phonetic ya"
+4e92,互,686,757,819,reciprocal
+52d9,務,687,1227,1313,duty
+67d4,柔,688,1226,1312,soft
+8edf,軟,689,470,509,soft
+8ecc,軌,690,288,306,track
+8ed2,軒,691,1652,1781,"eaves, counter for houses"
+8ef8,軸,692,1112,1193,"axle, axis"
+8f03,較,693,1277,1370,compare
+5eab,庫,694,589,633,storage chamber
+8535,蔵,695,850,913,store
+5009,倉,696,1630,1758,storehouse
+5275,創,697,1631,1759,create
+544a,告,698,247,262,"notify, accuse"
+9020,造,699,281,299,make (build)
+8863,衣,700,396,423,garment (clothing)
+4f9d,依,701,971,1045,depend on
+888b,袋,702,1006,1081,bag
+8912,褒,703,998,1073,commend (praise)
+88cf,裏,704,399,426,rear
+8868,表,705,1546,1666,"express, surface, table (chart)"
+73fe,現,706,259,275,"actual (present), appear"
+8457,著,707,1258,1347,"author, conspicuous"
+5236,制,708,418,447,"system, control"
+88fd,製,709,419,448,manufacture
+521d,初,710,404,431,first
+88f8,裸,711,1124,1205,naked
+96e3,難,712,1580,1703,"difficult, disaster, fault"
+51c6,准,713,560,602,junior
+6e96,準,714,564,606,"standard (level), quasi-"
+5099,備,715,1183,1267,provide for
+6b7b,死,716,815,878,die
+846c,葬,717,816,879,funeral
+5217,列,718,812,875,"column, row"
+70c8,烈,719,814,877,vehement (intense)
+88c2,裂,720,813,876,split (tear)
+4f8b,例,721,972,1046,example
+5211,刑,722,679,734,penalty
+578b,型,723,680,735,type (model)
+7814,研,724,675,729,"grind, research"
+5384,厄,725,1415,1519,misfortune
+5371,危,726,1416,1520,dangerous
+7bc4,範,727,1413,1516,model
+6028,怨,728,1420,1524,hold a grudge (resent)
+82d1,苑,729,1419,1523,imperial garden
+5b9b,宛,730,1417,1521,address
+7897,碗,731,2591,2637,bowl
+8155,腕,732,1418,1522,"arm, ability"
+5374,却,733,1395,1497,eliminate
+811a,脚,734,1396,1498,leg
+72af,犯,735,1414,1517,offense (violation)
+72c2,狂,736,260,277,crazy (mad about)
+7344,獄,737,338,361,prison
+975e,非,738,1632,1760,"is not (non-, un-, wrong)"
+6392,排,739,1634,1762,"exclude, discharge"
+4ff3,俳,740,1633,1761,haiku
+7f6a,罪,741,1636,1764,crime
+7f70,罰,742,833,896,punishment
+4f34,伴,743,1203,1287,accompany
+5224,判,744,1205,1289,"judge (decide), personal seal"
+8a55,評,745,1487,1599,comment (evaluate)
+6279,批,746,649,701,criticize
+5e25,帥,747,1270,1362,commander in chief
+5e2b,師,748,1269,1361,master (teacher)
+5ea7,座,749,1024,1100,"seat, sit"
+5750,坐,750,2844,2861,sit
+5352,卒,751,1025,1102,"graduate (come to an end), private (soldier)"
+7387,率,752,1737,1874,"rate, lead"
+5098,傘,753,1026,1103,umbrella
+7b20,笠,754,939,1009,bamboo hat
+661f,星,755,1556,1676,star
+6c41,汁,756,140,150,"juice, soup"
+6597,斗,757,1177,1261,"dipper, to (18L)"
+6599,料,758,1178,1262,"fee, materials"
+79d1,科,759,1179,1263,subject of study
+7136,然,760,241,256,"-like, -ly"
+71c3,燃,761,510,549,burn
+9ed9,黙,762,240,255,silent
+7363,獣,763,1933,2083,beast
+731f,猟,764,1940,2090,hunting
+6f01,漁,765,172,184,fishing
+72e9,狩,766,243,258,hunt
+731b,猛,767,1456,1566,ferocious
+7159,煙,768,1612,1739,smoke
+713c,焼,769,1200,1284,burn (roast)
+6681,暁,770,1201,1285,dawn
+65e7,旧,771,35,35,former
+5150,児,772,58,62,child
+4ea6,亦,773,,,also
+8d64,赤,774,1743,1880,red
+5909,変,775,1745,1882,"change, abnormal"
+86ee,蛮,776,1747,1884,barbarian
+604b,恋,777,1748,1885,(romantic) love
+611b,愛,778,737,796,love
+6182,憂,779,616,663,"be anxious, grief"
+512a,優,780,993,1068,"superior, actor, kind"
+6817,栗,781,1609,1735,chestnut
+7968,票,782,1606,1732,"slip of paper, ballot"
+6a19,標,783,1608,1734,"mark (label, sign)"
+6f02,漂,784,1607,1733,drift (float)
+9077,遷,785,1610,1737,transfer
+5404,各,786,291,311,"each (every, all, various)"
+5ba2,客,787,294,315,"visitor, customer"
+8def,路,788,1282,1376,road
+683c,格,789,292,312,"norm (standard), status (rank), character"
+7d61,絡,790,1350,1450,"interlink, entwine"
+7565,略,791,293,314,"leave out, strategy"
+95a3,閣,792,1624,1752,"grand building, cabinet (of government)"
+843d,落,793,299,320,fall
+5357,南,794,1613,1740,south
+897f,西,795,1602,1728,west
+9149,酉,796,1427,1534,sign of the rooster
+9152,酒,797,1428,1535,alcoholic drink
+6d12,洒,798,2292,2389,sprinkle (wash)
+914d,配,799,1436,1544,"distribute, put in order (manage)"
+9178,酸,800,1437,1545,"acid, oxygen"
+7336,猶,801,1438,1546,delay
+5c0a,尊,802,1439,1547,honor (esteem)
+9075,遵,803,2031,2187,obey
+5c0e,導,804,278,296,guide
+656c,敬,805,334,356,respect
+8b66,警,806,336,358,"guard against, warn"
+9a5a,驚,807,1987,2141,surprise
+6563,散,808,1189,1273,scatter
+6562,敢,809,826,889,boldly
+53b3,厳,810,1936,2086,"severe, solemn"
+4ecf,仏,811,964,1037,buddha
+6255,払,812,738,798,"clear away, pay"
+62e1,拡,813,740,801,enlarge (widen)
+53ef,可,814,93,97,"possible, approve"
+4f55,何,815,1012,1087,"what, how many"
+82db,苛,816,2373,240,torment
+8377,荷,817,1013,1088,load (cargo)
+6cb3,河,818,146,157,river
+963f,阿,819,1295,1391,phonetic a
+53f8,司,820,1863,2007,officiate (administer)
+4f3a,伺,821,1864,2008,inquire
+8a5e,詞,822,1865,2009,words
+98fc,飼,823,1866,2010,raise animals
+518a,冊,824,1826,1967,counter for books
+55e3,嗣,825,1867,2011,heir
+8997,覗,826,2875,2886,peek
+6b4c,歌,827,469,508,"song, japanese poem"
+5504,唄,828,2178,57,ditty
+8ca0,負,829,63,67,"bear, lose"
+6557,敗,830,331,353,be defeated
+8cac,責,831,1541,1661,"responsibility, blame"
+7a4d,積,832,1543,1663,accumulate
+50b5,債,833,1544,1664,"debt, bond"
+6f2c,漬,834,1545,1665,pickle (immerse)
+7d21,紡,835,1357,1457,spin (make yarn)
+7e3e,績,836,1542,1662,achievements
+5177,具,837,74,78,implement (tool)
+771f,真,838,75,79,TRUE
+76f4,直,839,73,77,"straight, put straight"
+690d,植,840,205,217,plant
+6b96,殖,841,811,874,multiply
+5024,値,842,978,1052,value (worth)
+7f6e,置,843,832,895,place
+770c,県,844,513,552,prefecture
+5dde,州,845,128,135,"state, sandbar"
+6d32,洲,846,2289,2386,sandbar
+63a5,接,847,672,725,contact
+7d99,継,848,1370,1470,succeed
+65ad,断,849,1136,1218,"cut off, decide"
+5fdc,応,850,607,653,respond
+5e8a,床,851,592,636,"bed, floor"
+9ebb,麻,852,593,637,"hemp, become numb"
+6b74,歴,853,376,402,personal history
+66a6,暦,854,213,226,calendar
+81e8,臨,855,854,918,"attend (to), confront"
+5712,園,856,585,629,garden
+9060,遠,857,402,429,distant
+4e0e,与,858,1246,1335,"give, take part in"
+5199,写,859,1247,1336,copy
+79fb,移,860,898,964,move
+5378,卸,861,1397,1499,wholesale
+5fa1,御,862,1398,1500,general honorific term
+8907,複,863,465,504,"compound (double, duplicate)"
+8179,腹,864,464,503,belly
+5fa9,復,865,875,940,return to (repeat)
+5f80,往,866,880,945,go on (pass away)
+67f1,柱,867,268,286,pillar (mainstay)
+5f81,征,868,881,946,conquer (invade)
+5f93,従,869,877,942,follow (obey)
+5f92,徒,870,878,943,"follower, fellow, going on foot"
+7e26,縦,871,1338,1436,vertical
+5ef6,延,872,392,419,"extend, postpone"
+4f38,伸,873,1118,1199,stretch
+7d33,紳,874,1361,1461,gentleman
+7e2e,縮,875,1336,1434,shrink
+8a95,誕,876,393,420,be born
+5ef7,廷,877,508,547,court
+5ead,庭,878,590,634,"courtyard, garden"
+8247,艇,879,1876,2021,boat
+5c55,展,880,1925,2075,"unfold (develop), display"
+6bbf,殿,881,1805,1945,"palace, formal honorific title (dono)"
+7570,異,882,1797,1936,different
+7ffc,翼,883,1798,1937,wing
+7d2f,累,884,1364,1464,"cumulate, encumber"
+5841,塁,885,1734,1871,"base, small fort"
+540f,吏,886,693,748,official
+4f7f,使,887,990,1065,"use, envoy (dispatch)"
+53f2,史,888,692,747,history
+66f4,更,889,694,749,"renew, furthermore, grow late"
+4fbf,便,890,991,1066,"convenient, postal delivery, excreta"
+786c,硬,891,695,750,hard
+80fd,能,892,2004,2160,"ability, noh drama"
+614b,態,893,2005,2161,"state (condition), posture (attitude)"
+718a,熊,894,2003,2159,bear
+7f77,罷,895,2032,2188,discontinue
+7f85,羅,896,1342,1442,"line up (arrange), phonetic ra"
+96f2,雲,897,423,452,cloud
+66c7,曇,898,424,453,cloudy
+96ea,雪,899,1143,1225,snow
+96f7,雷,900,425,454,thunder
+96f6,零,901,1402,1504,zero
+9707,震,902,2010,2166,quake (tremble)
+632f,振,903,2011,2167,swing (wave)
+4e45,久,904,1016,1092,of long duration
+8cd1,賑,905,2739,2767,"flourish, be bustling"
+4e18,丘,906,1329,1427,hill
+5175,兵,907,1331,1429,soldier
+5cb3,岳,908,1330,1428,high mountain
+6d5c,浜,909,1332,1430,beach
+820e,舎,910,316,338,hut
+518d,再,911,1815,1956,another time
+864e,虎,912,1990,2145,tiger
+5bc5,寅,913,2006,2162,sign of the tiger
+6f14,演,914,2007,2163,perform
+9ec4,黄,915,1750,1887,yellow
+6a2a,横,916,1751,1888,"sideways (across), arbitrary (despotic)"
+69cb,構,917,1818,1959,"construct, mind (care about)"
+8b1b,講,918,1816,1957,lecture
+8cfc,購,919,1817,1958,purchase
+6e9d,溝,920,1819,1960,channel
+4eee,仮,921,966,1039,"temporary (provisional), fake"
+7247,片,922,1212,1297,"fragment, one of two"
+7248,版,923,1213,1298,"printing plate, publishing"
+677f,板,924,724,781,"board, plate"
+8ca9,販,925,726,783,engage in sales
+7fa9,義,926,641,691,"righteousness, meaning, substitute (artificial)"
+8b70,議,927,642,692,"discuss, legislative body"
+5100,儀,928,984,1059,ceremony (rite)
+72a0,犠,929,643,693,sacrifice
+7272,牲,930,1559,1680,sacrifice
+65e8,旨,931,455,493,purport (gist)
+6307,指,932,659,711,"finger, point (out)"
+63ee,揮,933,662,715,brandish (wave)
+8f1d,輝,934,302,324,shine brilliantly
+523a,刺,935,417,446,pierce (stab)
+7b56,策,936,948,1019,"scheme, measure"
+5dee,差,937,554,593,divergence
+7740,着,938,555,594,"put on (clothes), arrive, stick"
+770b,看,939,638,688,observe (keep an eye on)
+5230,到,940,755,817,arrive
+5012,倒,941,980,1055,topple
+8ad6,論,942,1820,1961,"argue, theory"
+502b,倫,943,1821,1962,morals
+8f2a,輪,944,1822,1963,"wheel, ring"
+8f38,輸,945,289,307,transport
+8aed,諭,946,352,376,admonish (instruct)
+6109,愉,947,628,675,pleased
+7652,癒,948,2037,2193,heal (soothe)
+53f0,台,949,744,805,"stand (pedestal, platform), counter for machines and vehicles"
+6cbb,治,950,746,807,"govern (bring under control), cure"
+51b6,冶,951,2137,808,work metals
+7642,療,952,1709,1845,treat (medicate)
+50da,僚,953,1707,1842,colleague
+77ad,瞭,954,2582,1843,clear
+5bee,寮,955,1708,1844,dormitory
+59cb,始,956,747,809,begin
+7d42,終,957,1352,1452,end
+4e86,了,958,97,101,"finish, comprehend"
+627f,承,959,1901,2050,"agree to, receive"
+84b8,蒸,960,1900,2049,steam
+821e,舞,961,1774,1912,dance
+96a3,隣,962,1311,1408,neighbor
+77ac,瞬,963,817,880,"blink (instant, moment)"
+5922,夢,964,305,327,dream
+679d,枝,965,713,770,(tree) branch
+6280,技,966,712,769,skill (craft)
+4f0e,伎,967,2122,1040,performance
+5c90,岐,968,772,834,diverge (fork)
+5ce0,峠,969,773,835,mountain pass
+961c,阜,970,2928,1360,mound
+6025,急,971,1146,1229,"urgent, hurry, sudden"
+4e89,争,972,1154,1238,contend (struggle for)
+60c5,情,973,1537,1657,"emotion (feeling), actual conditions"
+6e05,清,974,1539,1659,clear (pure)
+6674,晴,975,1538,1658,clear sky
+7cbe,精,976,1535,1655,"refined, essence, spirit"
+8acb,請,977,1536,1656,request
+9759,静,978,1540,1660,quiet (still)
+6d44,浄,979,1155,1239,clean (pure)
+7b97,算,980,946,1017,calculate
+7b54,答,981,947,1018,answer
+7b26,符,982,1001,1076,symbol (mark)
+535a,博,983,47,48,"extensive (knowledge), doctor"
+7e1b,縛,984,1376,1476,bind
+7c3f,簿,985,949,1020,record book
+8584,薄,986,227,242,thin
+91c7,采,987,2090,791,gather
+83dc,菜,988,734,793,vegetable
+63a1,採,989,733,792,"pick, gather"
+5f69,彩,990,1714,1850,beautiful coloring
+6749,杉,991,1713,1849,cryptomeria (japanese cedar)
+8857,街,992,890,955,city quarter (city street)
+8853,術,993,1525,1644,practical art (technique)
+8ff0,述,994,1524,1643,state (mention)
+4f59,余,995,1657,1786,"remaining (left over), excess"
+9664,除,996,1658,1787,rid of
+5f90,徐,997,1659,1788,slowly
+53d9,叙,998,1660,1789,describe (explain)
+659c,斜,999,1662,1791,oblique
+9014,途,1000,1661,1790,way (road)
+5857,塗,1001,1663,1792,apply on a surface (paint)
+6f06,漆,1002,932,1001,lacquer
+4ed9,仙,1003,986,1061,hermit
+5782,垂,1004,1582,1705,hang down (dangle)
+4e57,乗,1005,1585,1709,ride (get on)
+517c,兼,1006,1597,1723,"combine, cannot"
+5270,剰,1007,1586,1710,surplus
+7761,睡,1008,1583,1706,sleep
+7720,眠,1009,1835,1977,sleep
+90f5,郵,1010,1847,1990,mail
+9318,錘,1011,1584,1708,spindle
+83ef,華,1012,1581,1704,"flower, magnificent, china"
+4fb5,侵,1013,1148,1231,invade (violate)
+6d78,浸,1014,1149,1232,soak (immerse)
+5bdd,寝,1015,1150,1233,go to sleep
+6383,掃,1016,1152,1235,sweep (away)
+5a66,婦,1017,1151,1234,adult woman (wife)
+5e30,帰,1018,1230,1316,return (home)
+623b,戻,1019,1081,1162,return
+6d99,涙,1020,1082,1163,tear
+5c04,射,1021,1249,1338,shoot
+8b1d,謝,1022,1250,1339,"thank, apologize"
+8a0e,討,1023,340,364,"study (examine), suppress by armed force"
+8a02,訂,1024,339,362,revise (correct)
+6253,打,1025,653,705,strike
+6483,撃,1026,709,766,strike (attack)
+62ed,拭,1027,2254,695,wipe
+8a66,試,1028,354,378,try (test)
+691c,検,1029,1673,1803,examine
+9a13,験,1030,1980,2134,test (examine)
+967a,険,1031,1672,1802,"dangerous, steep"
+5039,倹,1032,1674,1804,frugal
+5263,剣,1033,1671,1801,sword
+8c37,谷,1034,788,851,valley
+6b32,欲,1035,792,855,desire
+6d74,浴,1036,789,852,bathe
+5bb9,容,1037,790,853,"countenance (appearance), contain"
+6eb6,溶,1038,791,854,"dissolve, melt"
+4fd7,俗,1039,968,1042,popular
+88d5,裕,1040,793,856,abundant
+5bdb,寛,1041,226,241,lenient
+7518,甘,1042,1757,1894,sweet
+7d3a,紺,1043,1758,1895,dark blue
+7d05,紅,1044,1355,1455,crimson
+653b,攻,1045,330,352,attack
+529f,功,1046,863,927,merit (achievement)
+5de7,巧,1047,1241,1329,skillful
+673d,朽,1048,1243,1331,decay
+67af,枯,1049,206,219,wither
+6c5a,汚,1050,1245,1334,dirty (defile)
+5347,升,1051,42,42,sho (1.8L)
+5f01,弁,1052,742,803,"speak, manage, valve"
+6607,昇,1053,43,43,ascend (rise in rank)
+767b,登,1054,1703,1838,"ascend (climb), attend (appear), register"
+6f84,澄,1055,1704,1839,limpid (clear)
+5145,充,1056,761,823,"fill, allot"
+9283,銃,1057,762,824,gun
+7d71,統,1058,1347,1447,"unite, interconnected system"
+6d41,流,1059,764,826,"flow, current, style"
+786b,硫,1060,763,825,sulfur
+76f2,盲,1061,486,525,blind
+5fd8,忘,1062,596,640,forget
+5fd9,忙,1063,618,665,busy
+8352,荒,1064,488,527,wild
+614c,慌,1065,624,671,flurried (hurried)
+671b,望,1066,489,528,"hope, look afar"
+5e0c,希,1067,1489,1602,"rare, aspire"
+7a00,稀,1068,2611,2657,rare
+62ec,括,1069,661,714,lump together
+62d8,拘,1070,654,706,arrest
+62fe,拾,1071,667,720,pick up
+6368,捨,1072,655,707,discard
+5b64,孤,1073,1879,2024,solitary
+5f27,弧,1074,1878,2023,arc
+5f3e,弾,1075,1931,2081,"projectile, spring back"
+7985,禅,1076,1930,2080,zen
+7cfb,系,1077,1391,1492,"system, lineage (descent)"
+4fc2,係,1078,1392,1493,"connect (related to), person in charge"
+5b6b,孫,1079,1393,1494,grandchild
+61f8,懸,1080,1394,1495,suspend
+504f,偏,1081,1823,1964,one-sided
+904d,遍,1082,1824,1965,"all over (everywhere), counter for times"
+7de8,編,1083,1825,1966,"compile (edit), knit"
+7bc7,篇,1084,2645,2687,"volume (chapter, part)"
+666e,普,1085,1786,1925,widespread (common)
+8b5c,譜,1086,1787,1926,systematic record
+8077,職,1087,824,887,employment
+7e54,織,1088,1334,1432,weave
+8b58,識,1089,482,521,"discriminate, knowledge"
+6b89,殉,1090,809,872,die a martyr
+9000,退,1091,1465,1575,retreat
+773c,眼,1092,1467,1577,eye
+667a,智,1093,1224,1309,wisdom (intelligence)
+4ec1,仁,1094,988,1063,humaneness
+5fcd,忍,1095,597,642,"bear (endure, perform by stealth)"
+8a8d,認,1096,598,643,recognize (admit)
+6c42,求,1097,934,1004,seek
+6551,救,1098,936,1006,save (rescue)
+7403,球,1099,935,1005,ball
+5c6f,屯,1100,2033,2189,station troops
+7d14,純,1101,1494,1609,pure
+920d,鈍,1102,1495,1611,dull
+53ec,召,1103,86,90,summon
+62db,招,1104,650,702,invite
+6cbc,沼,1105,137,145,muddy pond
+7d39,紹,1106,1359,1459,introduce
+8a54,詔,1107,342,366,imperial edict
+52c5,勅,1108,1667,1796,imperial decree
+662d,昭,1109,87,91,luminous
+7167,照,1110,170,182,"illuminate, examine by comparison"
+8d85,超,1111,385,411,"surpass (super-, ultra-)"
+8d8a,越,1112,387,413,go beyond
+8da3,趣,1113,820,883,"purport (gist, meaning), flavor"
+8d74,赴,1114,386,412,proceed to
+8a03,訃,1115,,363,death report
+6734,朴,1116,207,220,simple
+639b,掛,1117,674,727,"set (on), hang"
+6458,摘,1118,657,709,pick
+6ef4,滴,1119,442,474,drop
+5ae1,嫡,1120,440,472,"legitimate wife, legitimate child"
+9069,適,1121,441,473,fit (suit)
+6575,敵,1122,443,475,enemy
+6388,授,1123,736,795,"confer, instruct"
+63f4,援,1124,1951,2101,aid
+5a9b,媛,1125,1950,2100,damsel (young lady of noble birth)
+7de9,緩,1126,1952,2102,slack (loose)
+6696,暖,1127,1949,2099,warm
+89b3,観,1128,572,614,view
+52e7,勧,1129,864,928,urge (promote)
+6a29,権,1130,571,613,"right, power (authority)"
+6b53,歓,1131,570,612,joyous
+9db4,鶴,1132,1943,2093,crane
+78ba,確,1133,567,609,certain (definite)
+6162,慢,1134,829,892,"arrogant, sluggish"
+6f2b,漫,1135,830,893,"rambling, comic"
+536f,卯,1136,2041,2199,sign of the hare
+6291,抑,1137,1700,1835,suppress
+4ef0,仰,1138,1701,1836,look up (to)
+8fce,迎,1139,1702,1837,welcome
+67f3,柳,1140,1421,1525,willow
+5375,卵,1141,1422,1526,egg
+758e,疎,1142,1668,1797,"scattered, estranged"
+901f,速,1143,1669,1799,quick
+9045,遅,1144,1067,1148,"slow, late"
+8fbb,辻,1145,279,297,crossroad
+8fc5,迅,1146,280,298,swift
+52a0,加,1147,867,932,add to (join)
+6e1b,減,1148,366,391,decrease
+6ec5,滅,1149,365,390,extinguish
+5a01,威,1150,364,389,"might (power), threaten by force"
+5687,嚇,1151,2026,2182,intimidate
+6216,或,1152,2091,2234,a certain
+60d1,惑,1153,614,661,bewildered
+57df,域,1154,356,380,bounded area
+53ce,収,1155,1510,1628,take in
+7d0d,納,1156,1356,1456,"pay, accept, put in place"
+732e,献,1157,1615,1742,offer
+8ca2,貢,1158,81,85,tribute
+8caa,貪,1159,,1713,covet
+8cb0,貰,1160,2737,2766,get
+8ca7,貧,1161,782,845,poor
+8cc3,賃,1162,1004,1079,"wages, charges"
+8cb8,貸,1163,1007,1082,lend
+8ca8,貨,1164,1010,1085,"money, goods"
+8cc7,資,1165,473,512,resources
+8cdb,賛,1166,843,906,"approve of, praise"
+66ff,替,1167,842,905,replace
+6f5c,潜,1168,844,907,"submerge, lurk"
+8cbf,貿,1169,1424,1529,trade
+7559,留,1170,1423,1527,"keep in place, stay (reside)"
+6e9c,溜,1171,2324,2415,accumulate
+8cc0,賀,1172,868,933,congratulate
+67b6,架,1173,869,934,lay across
+67d3,染,1174,509,548,dye
+68a8,梨,1175,907,973,pear
+5091,傑,1176,999,1074,person of excellence
+8cb4,貴,1177,1771,1908,"noble (precious), your honorable"
+6f70,潰,1178,2319,1911,crush
+907a,遺,1179,1772,1909,leave behind
+9063,遣,1180,1773,1910,"dispatch, use"
+8ffd,追,1181,1268,1359,chase
+8feb,迫,1182,282,300,press
+6cca,泊,1183,147,158,stay overnight
+4f2f,伯,1184,967,1041,"older sibling of parent, count (earl)"
+62cd,拍,1185,652,704,beat (rhythm)
+5f14,弔,1186,1233,1319,condole (mourn)
+6cb8,沸,1187,1237,1325,boil (over)
+716e,煮,1188,1257,1346,boil (cook)
+8cbb,費,1189,1238,1326,spend
+5f1f,弟,1190,1240,1328,younger brother
+7b2c,第,1191,1239,1327,ordinal number prefix
+5243,剃,1192,2146,2271,shave
+5144,兄,1193,103,107,older brother
+53ea,只,1194,53,55,"free of charge, just (only)"
+7a0e,税,1195,895,961,tax
+92ed,鋭,1196,500,539,sharp
+8aac,説,1197,499,538,"explain, theory"
+8131,脱,1198,498,537,"remove, escape from"
+95b2,閲,1199,1618,1745,review (inspect)
+795d,祝,1200,1089,1170,celebrate
+6cc1,況,1201,145,156,conditions (state of affairs)
+60a6,悦,1202,619,666,delighted
+514b,克,1203,104,109,overcome
+7af6,競,1204,434,465,compete
+59c9,姉,1205,413,442,older sister
+59b9,妹,1206,220,234,younger sister
+73e0,珠,1207,258,274,pearl
+6b8a,殊,1208,810,873,special
+5e8f,序,1209,1594,1720,"introductory part (beginning), order (sequence)"
+79e9,秩,1210,903,969,order
+8fed,迭,1211,847,910,alternate
+559c,喜,1212,1445,1553,happy
+5584,善,1213,1035,1112,good
+7e55,繕,1214,1335,1433,mend
+81b3,膳,1215,2468,1113,small food table (tray)
+61be,憾,1216,631,678,strongly regret
+6068,恨,1217,1460,1570,hold a grudge (resent)
+60dc,惜,1218,1187,1271,regret
+63aa,措,1219,1188,1272,dispose (of)
+501f,借,1220,1186,1270,borrow
+932f,錯,1221,1185,1269,mixed up
+66fd,曽,1222,501,540,before
+5897,増,1223,502,541,increase
+5c64,層,1224,1065,1146,stratum
+618e,憎,1225,626,673,hate
+50e7,僧,1226,982,1057,bonze (priest)
+8d08,贈,1227,503,542,present a gift
+8cc4,賄,1228,80,84,bribe
+8cc2,賂,1229,2738,313,bribe
+8ce6,賦,1230,378,404,installment (payment)
+8cca,賊,1231,357,381,bandit
+5e2f,帯,1232,415,444,"belt, wear"
+6ede,滞,1233,416,445,"stagnate, stay"
+6e0b,渋,1234,1738,1875,"not go smoothly, astringent"
+6442,摂,1235,1739,1876,"take in, act as regent"
+70ba,為,1236,1918,2067,"do, sake"
+507d,偽,1237,1919,2068,falsify (deceive)
+53c2,参,1238,1720,1856,"participate, visit a holy place (go somewhere, refer to)"
+60e8,惨,1239,1721,1857,"miserable, cruel"
+5442,呂,1240,24,24,phonetic ro
+4fb6,侶,1241,2121,1025,companion
+5bae,宮,1242,1033,1110,"royal palace, shinto shrine"
+55b6,営,1243,1034,1111,"operate (manage), barracks (camp)"
+86cd,蛍,1244,518,557,firefly
+6804,栄,1245,326,348,"flourish (thrive), glory"
+8a89,誉,1246,1939,2089,honor (glory)
+6319,挙,1247,1938,2088,"nominate, noteworthy act, raise"
+62f3,拳,1248,2917,1290,fist
+685c,桜,1249,1932,2082,cherry
+59a5,妥,1250,728,785,come to terms
+54b2,咲,1251,2018,2174,bloom
+6715,朕,1252,2027,2183,imperial we
+830e,茎,1253,715,772,stem (stalk)
+5f84,径,1254,882,947,"path, diameter"
+602a,怪,1255,716,773,mysterious
+8efd,軽,1256,717,774,light
+7d4c,経,1257,1360,1460,"pass through, manage, sutra"
+6589,斉,1258,1729,1866,equal (uniform)
+658e,斎,1259,1732,1869,"observe religious abstinence, study (room)"
+6e08,済,1260,1731,1868,"settle, relieve"
+5264,剤,1261,1730,1867,preparation (medicine)
+5256,剖,1262,478,517,dissect
+966a,陪,1263,1299,1396,attend upon a superior
+57f9,培,1264,477,516,cultivate
+8ce0,賠,1265,476,515,compensate (indemnify)
+8cbc,貼,1266,2736,60,stick on (paste)
+7c98,粘,1267,921,989,sticky
+8861,衡,1268,891,957,balance (weigh)
+63db,換,1269,1043,1122,exchange
+559a,喚,1270,1042,1121,call (out)
+7d76,絶,1271,1754,1891,"break off, come to an end, without match"
+514d,免,1272,1972,2126,exemption
+9038,逸,1273,1973,2127,let slip (deviate from the norm)
+52c9,勉,1274,1975,2129,endeavor
+6669,晩,1275,1974,2128,evening
+8a31,許,1276,569,611,permit (authorize)
+8c61,象,1277,1976,2130,"phenomenon, elephant"
+50cf,像,1278,1977,2131,image (likeness)
+5f6b,彫,1279,1710,1846,carve (engrave)
+666f,景,1280,314,336,scene (outlook)
+5f71,影,1281,1712,1848,"shadow (image, silhouette)"
+64ae,撮,1282,822,885,photograph
+5c31,就,1283,1969,2121,set about (enter upon)
+6dbc,涼,1284,313,335,cool
+9be8,鯨,1285,315,337,whale
+9694,隔,1286,1312,1409,separate
+878d,融,1287,1044,1123,"fuse, finance"
+8096,肖,1288,114,119,likeness
+6d88,消,1289,144,155,"extinguish (disappear), spend (consume)"
+785d,硝,1290,115,120,niter
+68a2,梢,1291,201,213,tip of a twig
+524a,削,1292,118,124,cut by chipping
+5bb5,宵,1293,189,201,early evening
+5bb4,宴,1294,191,203,banquet
+90f7,郷,1295,1849,1993,hometown
+9957,饗,1296,2799,2815,banquet
+97ff,響,1297,1850,1994,reverberate
+57ce,城,1298,362,387,castle
+8aa0,誠,1299,363,388,sincerity (truth)
+76db,盛,1300,1457,1567,prosper (heap up)
+65fa,旺,1301,2450,278,flourishing
+76c6,盆,1302,1449,1557,"tray, bon festival"
+84cb,蓋,1303,2388,1561,lid
+76d7,盗,1304,1451,1559,steal
+76df,盟,1305,1450,1558,alliance (pact)
+5869,塩,1306,1458,1568,salt
+50b7,傷,1307,996,1071,wound
+63da,揚,1308,664,717,"raise high, fry"
+66a2,暢,1309,2885,2895,fluent
+967d,陽,1310,1300,1397,"sun, positive"
+9670,陰,1311,1592,1718,"shadow, negative"
+96a0,隠,1312,1313,1410,hide
+7a4f,穏,1313,1147,1230,"calm, mild"
+7a42,穂,1314,909,975,spike (head of grain)
+7a32,稲,1315,910,976,rice plant
+6101,愁,1316,901,967,melancholy
+88c1,裁,1317,397,424,"cut out, judge (decide)"
+8f09,載,1318,359,383,"load, put in print"
+683d,栽,1319,358,382,planting
+8d66,赦,1320,1744,1881,amnesty
+8de1,跡,1321,1746,1883,trace (footprint)
+8e2a,踪,1322,,1382,trace (footprint)
+75d5,痕,1323,2578,1822,scar
+8e74,蹴,1324,2742,2122,kick
+8e0a,踊,1325,1409,1512,dance
+8e0f,踏,1326,1287,1381,tread (stand on)
+8e8d,躍,1327,1285,1379,leap
+6fef,濯,1328,577,619,rinse
+5947,奇,1329,126,133,unusual (odd)
+5bc4,寄,1330,192,204,"contribute, draw near"
+9a0e,騎,1331,1981,2135,ride on horseback
+6905,椅,1332,2480,218,chair
+5d0e,崎,1333,778,840,promontory
+57fc,埼,1334,153,164,promontory
+5cac,岬,1335,1115,1196,cape (promontory)
+6a21,模,1336,229,244,pattern
+819c,膜,1337,233,248,membrane
+6f20,漠,1338,230,245,"desert, obscure"
+5e55,幕,1339,409,437,"curtain (tent), shogunate"
+5893,墓,1340,231,246,grave
+52df,募,1341,861,925,raise (collect)
+66ae,暮,1342,232,247,"dusk, live"
+6155,慕,1343,633,683,adore
+6dfb,添,1344,634,684,add to
+606d,恭,1345,1803,1943,respectful
+66b4,暴,1346,1801,1941,"violent, disclose (lay bare)"
+7206,爆,1347,1802,1942,explode
+6cbf,沿,1348,795,858,along(side)
+790e,礎,1349,394,421,foundation stone
+7591,疑,1350,1410,1513,doubt (distrust)
+51dd,凝,1351,1412,1515,congeal (grow stiff)
+64ec,擬,1352,1411,1514,imitate
+5023,倣,1353,979,1053,copy after
+4f3c,似,1354,1029,1106,resemble
+4ff5,俵,1355,1547,1667,straw sack
+4ffa,俺,1356,2058,1091,I
+5eb5,庵,1357,2056,2213,hermitage
+50d5,僕,1358,1794,1933,"I, manservant"
+64b2,撲,1359,1793,1932,deal a blow
+53e9,叩,1360,2166,2285,strike
+4f10,伐,1361,994,1069,cut down
+95a5,閥,1362,1619,1746,clique (clan)
+95d8,闘,1363,1629,1757,fight
+95c7,闇,1364,2777,1748,dark
+9591,閑,1365,1625,1753,"leisure, quiet"
+8108,脈,1366,1856,2000,"vein, pulse"
+6d3e,派,1367,1855,1999,"sect (faction), dispatch"
+7f36,缶,1368,1965,2116,can
+63fa,揺,1369,1967,2118,shake
+8b21,謡,1370,1968,2119,popular song (chant)
+9065,遥,1371,2418,2498,far
+9676,陶,1372,1966,2117,pottery
+9673,陳,1373,1301,1398,set forth (lay out)
+9663,陣,1374,1305,1402,"battle formation, camp"
+9665,陥,1375,1315,1412,"fall in, fall into"
+9686,隆,1376,1561,1682,prosper
+964d,降,1377,1308,1405,descend
+5cf0,峰,1378,1562,1683,peak
+9022,逢,1379,2417,2497,meet
+7e2b,縫,1380,1563,1685,sew
+8702,蜂,1381,2687,1684,bee
+871c,蜜,1382,776,838,honey
+5bc6,密,1383,775,837,"close (dense, tight), secret"
+79d8,秘,1384,904,970,secret
+6b27,欧,1385,1699,1834,europe
+67a2,枢,1386,1697,1832,pivot
+6bb4,殴,1387,1698,1833,beat (thrash)
+99c6,駆,1388,1983,2137,drive
+99b3,馳,1389,2805,2820,gallop
+9a12,騒,1390,1985,2139,clamor
+65ed,旭,1391,27,27,rising sun (morning sun)
+65e6,旦,1392,30,30,dawn
+4f46,但,1393,953,1026,provided that (however)
+62c5,担,1394,668,721,"bear on shoulder, undertake"
+4e98,亘,1395,32,32,span
+6052,恒,1396,620,667,constant (permanent)
+57a3,垣,1397,154,165,fence (wall)
+5ba3,宣,1398,188,200,proclaim
+55a7,喧,1399,2163,2284,clamorous
+5629,嘩,1400,2160,2281,noisy
+553e,唾,1401,2165,1707,saliva
+58f7,壷,1402,2904,2913,jar (pot)
+576a,坪,1403,1486,1598,tsubo (about 3.3 square meters)
+7554,畔,1404,1204,1288,waterside
+8846,衆,1405,1857,2001,multitude
+4f0a,伊,1406,1161,1245,phonetic i
+541b,君,1407,1162,1246,"ruler, familiar title (kimi, kun), you"
+7fa4,群,1408,1163,1247,"group (crowd, flock)"
+90e1,郡,1409,1843,1986,county
+90a3,那,1410,2960,1992,phonetic na
+90a6,邦,1411,1848,1991,"state, japan"
+90ca,郊,1412,1844,1987,suburb
+52b9,効,1413,1276,1369,effect
+7d5e,絞,1414,1348,1448,"strangle, wring"
+643e,搾,1415,1324,1422,squeeze (extract)
+7d0b,紋,1416,1727,1863,crest
+83ca,菊,1417,927,996,chrysanthemum
+5e1d,帝,1418,435,466,emperor
+7de0,締,1419,1340,1440,"conclude (contract), tighten"
+8ae6,諦,1420,2716,467,give up
+4eab,享,1421,308,330,enjoy (receive)
+90ed,郭,1422,1842,1985,outer enclosure
+4ead,亭,1423,311,333,"inn (restaurant), pseudonym suffix"
+505c,停,1424,977,1051,stop
+6606,昆,1425,448,483,insect
+6df7,混,1426,450,487,mix
+7686,皆,1427,449,484,"all (everything, everyone)"
+6977,楷,1428,,485,block character style
+8ae7,諧,1429,,486,harmony
+968e,階,1430,1309,1406,"floor (story), rank (class)"
+965b,陛,1431,1310,1407,imperial palace steps
+9678,陸,1432,1513,1631,land
+7766,睦,1433,1514,1632,friendly (intimate)
+52e2,勢,1434,1515,1633,"power (force), condition (trend)"
+71b1,熱,1435,1516,1634,heat (hot)
+719f,熟,1436,310,332,mature
+587e,塾,1437,309,331,private school
+9675,陵,1438,1518,1636,imperial mausoleum
+83f1,菱,1439,1517,1635,rhombus
+4fca,俊,1440,1014,1089,brilliant person
+5506,唆,1441,766,828,instigate
+7b48,筈,1442,2646,2688,to be expected
+7bb8,箸,1443,2640,1348,chopsticks
+6691,暑,1444,1260,1350,"hot, summer heat"
+7f72,署,1445,1259,1349,"government office, sign one's name"
+66d9,曙,1446,2448,2524,dawn
+8ced,賭,1447,1264,1354,wager
+8af8,諸,1448,1261,1351,various
+5132,儲,1449,2118,2252,profit
+7dd2,緒,1450,1344,1444,"outset (beginning), line (thread of events)"
+7fc1,翁,1451,786,849,old man
+5a46,婆,1452,804,867,old woman
+59ff,姿,1453,474,513,"figure (appearance, posture)"
+6063,恣,1454,,641,arbitrary
+5984,妄,1455,487,526,rash (outrageous)
+840e,萎,1456,2355,986,wilt (wither)
+59bb,妻,1457,1889,2035,wife
+51c4,凄,1458,2133,2036,tremendous (terrible)
+7ae0,章,1459,433,464,"chapter (writing), badge"
+5f70,彰,1460,1715,1851,proclaim merits
+969c,障,1461,1297,1393,hindrance
+8f9b,辛,1462,1496,1612,"pungent (spicy), hard (painful)"
+5bb0,宰,1463,1499,1615,"preside (over), manage"
+8fa3,辣,1464,,1798,sharp
+8f9e,辞,1465,1497,1613,"word, resign"
+58c1,壁,1466,1500,1616,wall
+74a7,璧,1467,,1617,magnificent jewel
+7656,癖,1468,1691,1826,habit
+907f,避,1469,1501,1618,avoid
+5e78,幸,1470,1505,1622,"good fortune, happiness"
+670d,服,1471,1399,1501,"clothes, submit"
+5831,報,1472,1507,1625,"report, requite"
+57f7,執,1473,1506,1623,"execute (perform), seize"
+646f,摯,1474,,1624,sincere
+9054,達,1475,552,591,"attain (reach, deliver), plural suffix (-tachi)"
+6717,朗,1476,1469,1579,"cheerful, clear (bright)"
+6d6a,浪,1477,1470,1580,"billow (large wave), roam (wander)"
+5449,呉,1478,1897,2046,"kingdom of wu, give (do for someone)"
+5a2f,娯,1479,1898,2047,enjoyment
+8aa4,誤,1480,1899,2048,mistake
+5bcc,富,1481,193,205,rich
+526f,副,1482,89,93,secondary (subordinate)
+5e45,幅,1483,407,435,width (range)
+798f,福,1484,1090,1171,fortune
+7949,祉,1485,1091,1172,blessedness
+798d,禍,1486,1291,1386,calamity
+6e26,渦,1487,1292,1387,whirlpool
+934b,鍋,1488,2757,1388,pot (pan)
+862d,蘭,1489,2363,2449,"orchid, holland"
+6b04,欄,1490,1628,1756,column
+6f64,潤,1491,1627,1755,moist
+6df5,淵,1492,2966,2971,"edge, deep pool"
+6ed1,滑,1493,1289,1384,"slide, smooth"
+7a3d,稽,1494,2088,983,practice (train)
+80a9,肩,1495,1077,1158,shoulder
+8105,脅,1496,871,936,threaten
+80af,肯,1497,374,400,assent
+53cc,双,1498,697,753,set of two (pair)
+6c5f,江,1499,139,148,inlet
+6e7e,湾,1500,1749,1886,bay (curve)
+6e2f,港,1501,1800,1940,port
+9078,選,1502,1804,1944,select
+629e,択,1503,1074,1155,select
+6ca2,沢,1504,1072,1153,"swamp, abundant"
+8a33,訳,1505,1073,1154,"translate, sense (meaning)"
+91c8,釈,1506,1908,2057,"elucidate, release"
+6577,敷,1507,1883,2028,lay
+50b2,傲,1508,,1054,proud
+8d05,贅,1509,,,luxury
+5be9,審,1510,1910,2059,"examine carefully, try"
+85e9,藩,1511,1912,2061,feudal domain
+7ffb,翻,1512,1911,2060,"turn over, render in another form (translate)"
+7fd4,翔,1513,2933,2940,soar
+67fb,査,1514,1781,1920,look into
+79df,租,1515,1778,1916,land tax
+7c97,粗,1516,1777,1915,coarse
+963b,阻,1517,1780,1919,hamper (obstruct)
+72d9,狙,1518,2344,1917,aim at
+5b9c,宜,1519,1783,1922,right (suitable)
+7573,畳,1520,1784,1923,"tatami, fold up"
+7532,甲,1521,1113,1194,"shell, first in a series"
+4e59,乙,1522,71,75,second in a series
+4e19,丙,1523,1020,1096,third in a series
+67c4,柄,1524,1021,1097,"character, status, handle"
+62bc,押,1525,1114,1195,"push, press (down)"
+62bd,抽,1526,1106,1187,draw out (pull)
+635c,捜,1527,1120,1201,look for
+5c4a,届,1528,1110,1191,"deliver, reach"
+5b99,宙,1529,1109,1190,"space, midair"
+7b1b,笛,1530,1111,1192,flute (whistle)
+8896,袖,1531,1108,1189,sleeve
+895f,襟,1532,1099,1180,collar
+887f,衿,1533,2623,2668,collar
+88fe,裾,1534,2624,1145,cuff (hem)
+636e,据,1535,1064,1144,"set (up), place"
+63e1,握,1536,1059,1139,grasp (seize)
+63c3,揃,1537,2255,2358,make uniform
+64ab,撫,1538,2270,2368,stroke (soothe)
+8a17,託,1539,1917,2066,entrust
+5b85,宅,1540,1916,2065,dwelling house
+8a6b,詫,1541,2721,2750,apologize
+5b87,宇,1542,1656,1785,universe
+828b,芋,1543,1655,1784,potato
+5bff,寿,1544,1565,1687,"longevity, congratulations"
+92f3,鋳,1545,1566,1688,cast (mint)
+9298,銘,1546,275,293,inscription
+93e1,鏡,1547,483,522,"mirror, optical instrument"
+5883,境,1548,484,523,"boundary, situation"
+74b0,環,1549,836,899,"ring, surround"
+9084,還,1550,837,900,return
+76fe,盾,1551,1853,1997,shield
+5faa,循,1552,1854,1998,circulate
+5de1,巡,1553,285,303,make the rounds (go around)
+9019,這,1554,2414,2494,crawl
+9013,逓,1555,1858,2002,relay
+606f,息,1556,610,657,breath
+61a9,憩,1557,611,658,take a rest
+9f3b,鼻,1558,678,733,nose
+5b54,孔,1559,96,100,open hole
+81ed,臭,1560,122,128,bad smell
+55c5,嗅,1561,,129,smell (sniff)
+5965,奥,1562,928,997,inner part
+5c16,尖,1563,2903,2912,pointy
+7a81,突,1564,1319,1416,thrust
+7a92,窒,1565,1321,1418,"choke (plug up), nitrogen"
+7a83,窃,1566,1322,1419,steal
+885d,衝,1567,1680,1811,collide
+5951,契,1568,1549,1669,pledge
+55ab,喫,1569,1550,1670,ingest
+6f54,潔,1570,1548,1668,immaculate
+4fae,侮,1571,989,1064,insult (disdain)
+,梅,1572,460,499,japanese apricot
+6094,悔,1573,625,672,repent (regret)
+654f,敏,1574,459,498,nimble
+7e41,繁,1575,1337,1435,"thrive (be busy, numerous, manifold)"
+7e4b,繋,1576,2655,2697,connect (tie together)
+8302,茂,1577,360,384,grow thick
+6a4b,橋,1578,429,460,bridge
+77ef,矯,1579,1221,1306,rectify
+7a3f,稿,1580,892,958,manuscript
+7e1e,縞,1581,2671,2712,stripe
+7b8b,箋,1582,2991,1011,writing paper (label)
+6b8b,残,1583,808,871,"leave behind (remain), ruthless"
+685f,桟,1584,367,393,scaffold
+92ad,銭,1585,368,394,money (coin)
+8df5,践,1586,1286,1380,put into action
+6d45,浅,1587,369,395,shallow
+6d29,洩,1588,2849,2864,leak
+58ee,壮,1589,321,343,"vigorous (robust), grand (heroic)"
+8358,荘,1590,322,344,"villa, dignified"
+88c5,装,1591,398,425,"dress (disguise), fit out (equip)"
+51a5,冥,1592,2841,322,dark
+6697,暗,1593,480,519,dark
+97fb,韻,1594,481,520,rhyme
+640d,損,1595,666,719,loss (disadvantage)
+6355,捕,1596,1836,1978,catch (seize)
+633f,挿,1597,1116,1197,insert
+88dc,補,1598,1840,1983,supplement (replenish)
+6d66,浦,1599,1837,1980,seaside (small bay)
+54fa,哺,1600,,1979,suckle
+8217,舗,1601,1839,1982,"pave, shop"
+63b4,掴,1602,2249,2354,grasp (clutch)
+6349,捉,1603,2260,1374,catch (grasp)
+4fc3,促,1604,1280,1373,hasten (urge)
+7b46,筆,1605,943,1014,"brush, writing"
+6d25,津,1606,328,350,harbor (ferry)
+5f8b,律,1607,874,939,"law, rhythm"
+902e,逮,1608,1160,1244,catch a criminal
+5efa,建,1609,391,417,build
+5065,健,1610,974,1048,robust (healthy)
+5eb7,康,1611,1159,1243,healthy
+5eb8,庸,1612,1182,1266,mediocre
+7c9b,粛,1613,1733,1870,"purge, hushed"
+7e4d,繍,1614,2665,2707,embroidery
+5510,唐,1615,1157,1241,tang dynasty
+7cd6,糖,1616,1158,1242,sugar
+7ca7,粧,1617,923,991,apply makeup
+7ce7,糧,1618,926,995,food provisions
+7c89,粉,1619,920,988,powder
+7d1b,紛,1620,1358,1458,confused
+7cfe,糾,1621,1509,1627,inquire into
+7c8b,粋,1622,925,993,refined
+7815,砕,1623,116,121,crush up
+67a0,枠,1624,200,212,frame
+9154,酔,1625,1435,1543,become intoxicated
+9192,醒,1626,2750,1677,wake up (sober up)
+916c,酬,1627,1432,1540,reciprocate (recompense)
+9177,酷,1628,1431,1539,severe (cruel)
+51e1,凡,1629,62,66,commonplace (mediocre)
+51e7,凧,1630,2139,2265,kite
+5e06,帆,1631,406,434,sail
+6c4e,汎,1632,2327,147,pan-
+6050,恐,1633,613,660,fear
+6016,怖,1634,623,670,fearful
+7bc9,築,1635,950,1021,construct
+5c0b,尋,1636,1145,1228,inquire (look for)
+8a0a,訊,1637,2713,2748,interrogate (ask)
+8aee,諮,1638,475,514,consult (ask for advice)
+6297,抗,1639,648,700,resist
+822a,航,1640,1870,2014,navigate
+5751,坑,1641,306,328,pit (of a mine)
+62dd,拝,1642,1564,1686,"worship, humbly"
+8015,耕,1643,1808,1949,till
+8017,耗,1644,1914,2063,wear away
+5d07,崇,1645,1101,1182,reverence
+7070,灰,1646,168,180,ash
+70ad,炭,1647,771,833,"coal, charcoal, carbon"
+5cb8,岸,1648,1653,1782,shore (bank)
+5ca9,岩,1649,770,832,rock (crag)
+5d29,崩,1650,774,836,crumble
+5d50,嵐,1651,777,839,storm
+5d16,崖,1652,2227,841,cliff
+50ac,催,1653,987,1062,"sponsor (make happen), press for"
+7126,焦,1654,557,599,"scorch, be impatient"
+7901,礁,1655,558,600,reef
+596e,奮,1656,565,607,rouse up
+596a,奪,1657,566,608,seize (rob)
+96bb,隻,1658,699,755,"one of a pair, counter for ships"
+7372,獲,1659,701,757,catch game
+7a6b,穫,1660,908,974,harvest
+8b77,護,1661,700,756,protect
+8b72,譲,1662,1528,1648,cede (yield)
+5b22,嬢,1663,1530,1650,young lady
+91b8,醸,1664,1527,1647,brew
+58cc,壌,1665,1529,1649,arable soil
+58ca,壊,1666,400,427,break down
+61d0,懐,1667,828,891,"bosom, long for"
+5fb3,徳,1668,885,950,virtue
+8074,聴,1669,827,890,listen
+6065,恥,1670,823,886,shame
+7f9e,羞,1671,,2198,shame
+7235,爵,1672,1463,1573,rank of nobility
+4faf,侯,1673,1639,1767,feudal lord
+5589,喉,1674,2164,1768,throat
+5019,候,1675,1640,1769,"season, seasonal weather"
+4fee,修,1676,1722,1858,"cultivate (oneself), study, repair"
+60a0,悠,1677,958,1031,leisurely (serene)
+662f,是,1678,388,414,right (correct)
+63d0,提,1679,665,718,"present (offer), carry in hand"
+5824,堤,1680,390,416,embankment
+984c,題,1681,389,415,"heading (headline), topic, problem (question)"
+5319,匙,1682,2891,2900,spoon
+5192,冒,1683,18,18,risk (defy)
+660c,昌,1684,25,25,clear (bright)
+5531,唱,1685,21,21,sing (intone)
+6676,晶,1686,22,22,crystal
+5e3d,帽,1687,408,436,headgear
+68df,棟,1688,505,544,building (ridgepole)
+51cd,凍,1689,506,545,freeze
+6c37,氷,1690,131,138,ice
+6c38,永,1691,132,139,eternal (long)
+6cf3,泳,1692,136,144,swim
+8a60,詠,1693,345,369,"recite poetry, compose poetry"
+672d,札,1694,212,225,tag (label)
+679a,枚,1695,332,354,counter for flat things
+676f,杯,1696,1219,1304,cup
+6790,析,1697,1126,1207,analyze
+6298,折,1698,1130,1211,"break (off), fold (bend)"
+632b,挫,1699,2845,1101,break (sprain)
+637b,捻,1700,2251,1716,twist
+8a93,誓,1701,1133,1214,swear (vow)
+901d,逝,1702,1132,1213,depart this life
+54f2,哲,1703,1131,1212,"wise, philosophy"
+65ac,斬,1704,2092,1216,kill (cut down)
+6f38,漸,1705,1135,1217,gradually
+66ab,暫,1706,1134,1215,short while
+65a5,斥,1707,1138,1220,reject
+8a34,訴,1708,1139,1221,"appeal to, sue (complain)"
+8a1f,訟,1709,787,850,litigate
+7a76,究,1710,1320,1417,study exhaustively
+7aae,窮,1711,1326,1424,pushed to the limit
+6975,極,1712,1903,2052,"extreme, pole"
+51fd,函,1713,1902,2051,box
+63a2,探,1714,1327,1425,"probe, look for"
+6df1,深,1715,1328,1426,deep
+6144,慄,1716,,1736,tremble (shudder)
+60e7,惧,1717,,680,fear
+614e,慎,1718,630,677,prudent (discreet)
+93ae,鎮,1719,276,294,quell (appease)
+586b,填,1720,2190,166,fill (in)
+5a5a,婚,1721,1830,1972,marry
+56da,囚,1722,1018,1094,prisoner
+56f0,困,1723,579,621,be in trouble
+68b1,梱,1724,2518,2578,package (bale)
+56e0,因,1725,583,626,cause
+59fb,姻,1726,584,628,marriage
+54bd,咽,1727,2159,627,throat
+6069,恩,1728,606,652,"grace (favor), debt of gratitude"
+83cc,菌,1729,918,985,"bacteria (germ, fungus)"
+6f22,漢,1730,1578,1701,"(ancient) chinese, fellow (man)"
+5606,嘆,1731,1579,1702,sigh (lament)
+52e4,勤,1732,1577,1700,"service (work, employment)"
+8b39,謹,1733,1576,1698,respectfully (carefully)
+50c5,僅,1734,2116,1699,a few (little)
+7d22,索,1735,1365,1465,search for
+727d,牽,1736,2550,2607,pull
+7262,牢,1737,2213,2325,"prison, hardness"
+5553,啓,1738,1085,1166,"enlighten, address respectfully"
+5eb6,庶,1739,1191,1275,manifold
+906e,遮,1740,1192,1276,interrupt (cut off)
+71d5,燕,1741,2869,2882,swallow (bird)
+96c0,雀,1742,2878,2890,"sparrow, mahjong"
+52a3,劣,1743,862,926,inferior
+6284,抄,1744,647,699,excerpt (select)
+79d2,秒,1745,899,965,second
+5999,妙,1746,123,130,"marvelous (wonderful, strange)"
+6c99,沙,1747,2296,151,sand
+6c70,汰,1748,2316,149,sift out
+714e,煎,1749,2548,310,boil (roast)
+7092,炒,1750,,,roast (parch)
+708a,炊,1751,468,507,cook
+711a,焚,1752,2537,2597,kindle (build a fire)
+85aa,薪,1753,1503,1620,firewood
+4e43,乃,1754,686,741,possessive particle
+4e4b,之,1755,1214,1299,possessive particle
+6b64,此,1756,2043,2201,this
+5176,其,1757,,,that
+4e4f,乏,1758,1215,1300,scanty (poor)
+829d,芝,1759,1216,1301,lawn grass
+53ca,及,1760,688,743,reach to (extend to)
+6271,扱,1761,690,745,handle (treat)
+7d1a,級,1762,1353,1453,grade (rank)
+5438,吸,1763,689,744,"suck, breathe in"
+5439,吹,1764,467,506,blow (breathe out)
+547c,呼,1765,1485,1597,call
+5410,吐,1766,151,162,spew (vomit)
+53f6,叶,1767,2173,2291,"be fulfilled (fulfill, grant)"
+53f1,叱,1768,2179,477,scold
+53eb,叫,1769,1508,1626,shout
+541f,吟,1770,1589,1714,recite
+542b,含,1771,1588,1712,contain (include)
+7434,琴,1772,1591,1717,koto (japanese zither)
+8ff7,迷,1773,924,992,perplexed (lost)
+8b0e,謎,1774,2709,994,riddle (enigma)
+9006,逆,1775,1959,2109,reverse (contrary)
+9061,遡,1776,2847,2111,go back in time
+5851,塑,1777,1960,2110,model (mold)
+52f2,勲,1778,1677,1808,meritorious service
+85ab,薫,1779,1681,1812,balmy (fragrant)
+82b3,芳,1780,493,532,fragrant
+9999,香,1781,911,977,sweet smell
+79c0,秀,1782,914,980,excellent
+8a98,誘,1783,916,982,induce (invite)
+62d0,拐,1784,656,708,kidnap
+900f,透,1785,915,981,"pass through, see-through (transparent)"
+643a,携,1786,687,742,carry in hand
+96c4,雄,1787,743,804,"male, heroic"
+96cc,雌,1788,563,605,female
+4e9b,些,1789,2046,2203,a little bit
+67f4,柴,1790,2044,2202,brushwood (firewood)
+7d2b,紫,1791,1375,1475,purple
+9aea,髪,1792,1924,2074,hair
+9aed,髭,1793,2047,2205,beard (mustache)
+8a50,詐,1794,1141,1223,swindle
+6b3a,欺,1795,1762,1899,deceive
+68cb,棋,1796,1763,1900,shogi (japanese chess)
+7881,碁,1797,1766,1903,go (japanese checkers)
+751a,甚,1798,1768,1905,extremely
+52d8,勘,1799,1769,1906,"check (consider), intuitive perception"
+582a,堪,1800,1770,1907,endure (tolerate)
+5339,匹,1801,1695,1830,counter for animals
+5320,匠,1802,1693,1828,craftsman
+533f,匿,1803,1692,1827,conceal
+8afe,諾,1804,351,375,consent
+4e5e,乞,1805,462,501,beg
+8fc4,迄,1806,2421,2501,up to (until)
+4e7e,乾,1807,463,502,dry
+5e79,幹,1808,1654,1783,trunk
+64cd,操,1809,671,724,"manipulate, fidelity"
+71e5,燥,1810,215,228,dry out
+7e70,繰,1811,1369,1469,"reel, shift onward"
+85fb,藻,1812,2035,2191,seaweed (algae)
+5674,噴,1813,1197,1281,spout (gush out)
+58b3,墳,1814,1198,1282,tumulus
+61a4,憤,1815,1199,1283,indignation
+7259,牙,1816,1904,2053,fang (tusk)
+82bd,芽,1817,1905,2054,bud
+96c5,雅,1818,1907,2056,elegant
+90aa,邪,1819,1906,2055,evil
+65e2,既,1820,1481,1593,already
+6982,概,1821,1482,1594,general (rough)
+6168,慨,1822,1483,1595,deplore
+82d7,苗,1823,234,249,seedling
+63cf,描,1824,670,723,depict
+732b,猫,1825,244,259,cat
+840c,萌,1826,2377,2460,germinate (sprout)
+5146,兆,1827,235,250,"sign (show signs of), trillion"
+773a,眺,1828,237,252,gaze
+9003,逃,1829,283,301,escape
+6843,桃,1830,236,251,peach
+8df3,跳,1831,1284,1378,jump (leap)
+6311,挑,1832,658,710,provoke (challenge)
+62d9,拙,1833,769,831,clumsy
+5c48,屈,1834,1060,1140,bend
+6398,掘,1835,1061,1141,dig
+5800,堀,1836,1062,1142,ditch
+5c01,封,1837,156,168,"seal (enclose), enfeoff"
+7b52,筒,1838,944,1015,tube
+7ba1,管,1839,1273,1365,"pipe, exercise control"
+68fa,棺,1840,1272,1364,coffin
+8f44,轄,1841,1552,1672,exercise jurisdiction over
+6d1e,洞,1842,181,193,cave
+7a9f,窟,1843,2615,1420,cave
+6deb,淫,1844,2298,788,lewd
+598a,妊,1845,507,546,become pregnant
+5a20,娠,1846,2012,2168,conceive
+5507,唇,1847,2013,2169,lip
+8fb1,辱,1848,2009,2165,humiliate
+8972,襲,1849,2025,2181,"raid, inherit"
+4f0f,伏,1850,962,1035,prostrate
+5420,吠,1851,2170,2288,howl (bark)
+565b,噛,1852,2172,2290,bite (chew)
+73ed,班,1853,1229,1315,squad
+6591,斑,1854,2556,1865,spot (speck)
+8f29,輩,1855,1637,1765,fellow
+60b2,悲,1856,1635,1763,sad
+5ffd,忽,1857,2431,2509,"suddenly, careless"
+60da,惚,1858,2277,2376,fall in love with
+733f,猿,1859,403,430,monkey (ape)
+54c0,哀,1860,401,428,"sorrow, pity"
+8870,衰,1861,1890,2037,decline (degenerate)
+8877,衷,1862,1891,2038,inner heart
+55aa,喪,1863,1926,2076,"mourning, loss"
+5fcc,忌,1864,599,644,"mourning, abhor"
+5353,卓,1865,51,52,"table, prominent"
+60bc,悼,1866,621,668,mourn
+8c9e,貞,1867,55,58,chaste
+5075,偵,1868,981,1056,spy
+8987,覇,1869,1895,2043,supremacy (domination)
+8986,覆,1870,1611,1738,"cover (conceal), overturn"
+5c65,履,1871,1057,1137,"fulfill, put on footwear"
+5c5e,属,1872,1953,2103,belong to (be subordinate to)
+5631,嘱,1873,1954,2104,charge with
+5076,偶,1874,1955,2105,"by chance, couple"
+9685,隅,1875,1958,2108,nook
+9699,隙,1876,2426,1394,crevice (space)
+9047,遇,1877,1956,2106,"treat (receive), encounter"
+611a,愚,1878,1957,2107,foolish
+66f9,曹,1879,1173,1257,sergeant
+906d,遭,1880,1174,1258,meet with (encounter)
+69fd,槽,1881,1176,1260,tub (tank)
+59a8,妨,1882,491,530,hinder (obstruct)
+574a,坊,1883,492,531,"sonny boy, colloquial person suffix"
+508d,傍,1884,1015,1090,beside
+65bc,於,1885,2900,2909,"at, in, on"
+623f,房,1886,1078,1159,"chamber, tuft (tassel)"
+6247,扇,1887,1079,1160,fan
+6249,扉,1888,1638,1766,hinged door
+96c7,雇,1889,1083,1164,employ
+9867,顧,1890,1084,1165,look back (on)
+5c51,屑,1891,2219,2330,scraps (scum)
+7cde,糞,1892,2653,2695,droppings (shit)
+5c3f,尿,1893,1053,1132,urine
+6ccc,泌,1894,636,686,secrete
+5c3b,尻,1895,2220,1134,buttocks
+7089,炉,1896,1080,1161,furnace
+7aaf,窯,1897,1325,1423,kiln
+91dc,釜,1898,2332,1367,iron pot
+723a,爺,1899,2334,2423,old man (grandpa)
+7aaa,窪,1900,1323,1421,sink (cavity)
+4f73,佳,1901,970,1044,fine (beautiful)
+6daf,涯,1902,157,169,far end (outer limits)
+6687,暇,1903,1882,2027,free time
+971e,霞,1904,2779,2800,mist (haze)
+96f0,雰,1905,2028,2184,atmosphere
+9727,霧,1906,1228,1314,fog
+9732,露,1907,1283,1377,"dew, expose"
+971c,霜,1908,426,455,frost
+7bb1,箱,1909,942,1013,box
+7c4d,籍,1910,1567,1689,register
+8cab,貫,1911,102,106,penetrate (pierce through)
+6163,慣,1912,627,674,habitual practice
+9802,頂,1913,94,98,"summit, receive humbly (eat/drink)"
+6234,戴,1914,2702,1938,receive humbly
+9805,項,1915,82,86,clause
+9803,頃,1916,2791,479,"time, about"
+50be,傾,1917,1011,1086,incline (lean)
+9811,頑,1918,61,65,stubborn
+9812,頒,1919,783,846,distribute widely
+9813,頓,1920,2788,1610,suddenly (immediately)
+9855,顕,1921,1789,1928,manifest
+9818,領,1922,1405,1507,dominion
+983b,頻,1923,373,399,repeatedly (frequently)
+6357,捗,1924,2269,728,make progress
+9806,順,1925,129,136,"order (sequence), obey"
+99b4,馴,1926,2807,2822,become tame (get used to)
+8a13,訓,1927,341,365,instruct (admonish)
+9808,須,1928,1718,1854,must (absolutely necessary)
+984d,額,1929,295,316,"amount, picture frame, forehead"
+,頼,1930,1665,1794,"rely on, ask"
+702c,瀬,1931,1666,1795,shallows (rapids)
+5ce1,峡,1932,1265,1355,gorge
+72ed,狭,1933,1266,1356,narrow (tight)
+631f,挟,1934,1267,1357,hold between (pinch)
+982c,頬,1935,2792,1358,cheeks
+984e,顎,1936,2795,1333,jaw (chin)
+7169,煩,1937,163,175,vexing
+4e32,串,1938,603,649,skewer
+60a3,患,1939,604,650,affected by disease
+75be,疾,1940,1686,1819,"disease, fast"
+75f4,痴,1941,1683,1814,"stupid, infatuated"
+75ab,疫,1942,1689,1824,epidemic
+75e2,痢,1943,1687,1821,diarrhea
+75d8,痘,1944,1684,1815,smallpox
+760d,瘍,1945,,1817,ulcer (boil)
+764c,癌,1946,2576,2626,cancer
+75e9,痩,1947,2577,1818,become thin
+75b2,疲,1948,1688,1823,tired
+88ab,被,1949,807,870,be subjected to (be covered in)
+62ab,披,1950,805,868,open out (reveal)
+629c,抜,1951,705,761,"pull out, stand out"
+63a7,控,1952,1318,1415,"hold back, note (memo)"
+6276,扶,1953,839,902,lend support to
+62b9,抹,1954,644,694,wipe (erase)
+62d3,拓,1955,651,703,open up (farmland or new frontiers)
+62f7,拷,1956,1255,1344,torture
+697c,楼,1957,930,999,tall building
+58c7,壇,1958,587,631,platform (rostrum)
+5854,塔,1959,254,270,tower (pagoda)
+642d,搭,1960,646,698,load on board
+5be1,寡,1961,617,664,"few, widow(er)"
+8cd3,賓,1962,511,550,guest
+98fe,飾,1963,1477,1587,decorate
+98fd,飽,1964,1480,1592,satiated (tired of)
+9913,餓,1965,1476,1586,starve
+98e2,飢,1966,1475,1585,starve
+673a,机,1967,210,223,desk
+5197,冗,1968,300,321,redundant (superfluous)
+51a0,冠,1969,304,326,crown
+96e2,離,1970,1492,1605,separate
+80f8,胸,1971,1491,1604,chest
+60a9,悩,1972,1935,2085,suffer (be troubled)
+8133,脳,1973,1934,2084,brain
+81d3,臓,1974,851,914,internal organ
+80c3,胃,1975,29,29,stomach
+708e,炎,1976,162,174,"flame, inflammation"
+8ac7,談,1977,350,374,talk (converse)
+6de1,淡,1978,164,176,light (faint)
+707d,災,1979,167,179,natural calamity
+809d,肝,1980,1649,1778,liver
+80ba,肺,1981,414,443,lung
+80c6,胆,1982,31,31,gallbladder (gall)
+817a,腺,1983,2466,141,gland
+80de,胞,1984,531,570,membranous sac
+8178,腸,1985,544,583,intestines
+80ce,胎,1986,748,810,"womb, fetus"
+8170,腰,1987,1605,1731,waist
+8098,肘,1988,2464,46,elbow
+819d,膝,1989,2461,1002,knee
+80a1,股,1990,2454,764,crotch
+80a2,肢,1991,714,771,limb
+80f4,胴,1992,182,194,trunk (torso)
+8107,脇,1993,870,935,"armpit, aside"
+8102,脂,1994,456,494,fat
+8a63,詣,1995,2715,495,visit a temple
+80aa,肪,1996,494,533,animal fat
+808c,肌,1997,66,70,skin
+819a,膚,1998,1992,2147,skin
+616e,慮,1999,1996,2151,consider
+8650,虐,2000,1998,2153,cruel (tyrannical)
+865e,虞,2001,1995,2150,risk
+5287,劇,2002,1997,2152,drama
+865a,虚,2003,1993,2148,"empty (void), false"
+865c,虜,2004,1991,2146,captive
+52c7,勇,2005,1407,1509,brave (in high spirits)
+6e67,湧,2006,2284,1510,well up (gush out)
+622f,戯,2007,1994,2149,sport (play)
+7e4a,繊,2008,1790,1929,"fine, fiber"
+7dfb,緻,2009,,1437,fine
+5618,嘘,2010,2167,2286,lie (fib)
+5642,噂,2011,2161,2282,rumor (gossip)
+6a3d,樽,2012,2506,2567,barrel
+8ddd,距,2013,1281,1375,distance
+62d2,拒,2014,857,921,refuse (reject)
+5b09,嬉,2015,2207,2319,glad
+9f13,鼓,2016,1444,1552,drum
+6a39,樹,2017,1446,1554,standing tree
+81a8,膨,2018,1719,1855,expand
+8139,脹,2019,1923,2073,swell
+5f35,張,2020,1921,2071,"spread out (extend over), strain (stretch)"
+5e33,帳,2021,1922,2072,notebook (curtain)
+816b,腫,2022,2467,1807,tumor (swelling)
+80a5,肥,2023,1756,1893,fatten
+628a,把,2024,1752,1889,grip
+8a87,誇,2025,1244,1332,boast
+89a7,覧,2026,855,919,look over (view)
+76e3,監,2027,1453,1562,oversee
+9451,鑑,2028,1455,1564,"appraise, refer to"
+8266,艦,2029,1875,2020,warship
+6feb,濫,2030,1454,1563,excessive
+85cd,藍,2031,2371,1565,indigo
+8ce2,賢,2032,852,915,wise (intelligent)
+814e,腎,2033,2453,916,kidney
+5805,堅,2034,853,917,firm (solid)
+7dca,緊,2035,1374,1474,"tighten, exigent"
+52c3,勃,2036,2858,930,suddenly rising
+52b1,励,2037,866,931,work hard (urge on)
+6803,栃,2038,514,553,horse chestnut (tree)
+8328,茨,2039,472,511,briar (thorn)
+7fa8,羨,2040,553,592,envious
+6b73,歳,2041,512,551,"year, -years old"
+621a,戚,2042,2882,385,kin
+53d4,叔,2043,718,775,younger sibling of parent
+6dd1,淑,2044,721,778,graceful (refined)
+5bc2,寂,2045,720,777,lonesome (desolate)
+7763,督,2046,719,776,"supervise, commander"
+5974,奴,2047,702,758,"slave, guy"
+52aa,努,2048,865,929,exert
+6012,怒,2049,703,759,get angry
+96b7,隷,2050,2036,2192,underling
+6b3e,款,2051,1097,1178,"article, friendly relations"
+6bbb,殻,2052,710,767,husk (shell)
+7a40,穀,2053,917,984,grain
+81fc,臼,2054,2063,1531,mortar
+6bc0,毀,2055,2067,1532,break (chip)
+5ec9,廉,2056,1601,1727,"honest, cheap"
+938c,鎌,2057,1599,1725,sickle
+5acc,嫌,2058,1598,1724,dislike
+8b19,謙,2059,1600,1726,humble (modest)
+905c,遜,2060,2422,1496,humble (modest)
+4e80,亀,2061,534,573,turtle
+7df4,練,2062,1343,1443,train (drill)
+932c,錬,2063,2030,2186,refine (train)
+935b,鍛,2064,1860,2004,forge (train)
+9271,鉱,2065,741,802,"ore, mine"
+9285,銅,2066,272,290,copper (bronze)
+925b,鉛,2067,794,857,lead
+9291,銑,2068,270,288,pig iron
+92fc,鋼,2069,1962,2113,steel
+525b,剛,2070,1964,2115,tough (strong)
+7db1,綱,2071,1963,2114,"rope, main points"
+7db2,網,2072,1373,1473,net
+7e04,縄,2073,1377,1477,rope
+9262,鉢,2074,271,289,bowl
+9396,鎖,2075,1937,2087,chain
+7d46,絆,2076,2658,2700,bonds (fetters)
+9375,鍵,2077,2761,418,key
+91d8,釘,2078,2766,2788,nail
+932e,錮,2079,,623,lock down
+9320,錠,2080,383,409,"lock, pill"
+7dbb,綻,2081,2670,1439,come apart at the seams
+9234,鈴,2082,1406,1508,bell
+9418,鐘,2083,438,470,bell
+77b3,瞳,2084,437,469,pupil (of the eye)
+61a7,憧,2085,2280,681,yearn after
+61ac,憬,2086,,682,yearn after
+5351,卑,2087,1511,1629,mean (despicable)
+7891,碑,2088,1512,1630,monument
+75fa,痺,2089,2579,2627,paralysis
+9b3c,鬼,2090,2019,2175,demon (ghost)
+584a,塊,2091,2024,2180,lump
+919c,醜,2092,2020,2176,ugly
+9b42,魂,2093,2021,2177,soul (spirit)
+9b45,魅,2094,2023,2179,charm
+9b54,魔,2095,2022,2178,demon (devil)
+754f,畏,2096,2569,2069,fear
+5237,刷,2097,1069,1150,print
+64e6,擦,2098,1104,1185,rub (chafe)
+6469,摩,2099,639,689,rub against
+78e8,磨,2100,594,638,polish
+51f9,凹,2101,33,33,concave
+51f8,凸,2102,34,34,convex
+5949,奉,2103,1573,1695,dedicate (offer)
+594f,奏,2104,1571,1693,play music
+6cf0,泰,2105,1570,1692,tranquil
+4ff8,俸,2106,1574,1696,salary
+68d2,棒,2107,1575,1697,rod (stick)
+6367,捧,2108,2265,2364,offer respectfully
+8010,耐,2109,1164,1248,withstand (endure)
+970a,霊,2110,1791,1930,spirit (soul)
+9700,需,2111,1165,1249,demand (need)
+6fe1,濡,2112,2329,2419,wet
+5112,儒,2113,1166,1250,confucianism
+7aef,端,2114,1167,1251,edge (extremity)
+58f1,壱,2115,457,496,one (in legal documents)
+5c3c,尼,2116,1054,1133,buddhist nun
+6ce5,泥,2117,1055,1135,mud
+6f0f,漏,2118,1068,1149,leak
+6c3e,氾,2119,2301,1518,flood
+5f59,彙,2120,2997,1237,catalog
+67d0,某,2121,1759,1896,a certain
+8b00,謀,2122,1760,1897,scheme (plot)
+5a92,媒,2123,1761,1898,mediate
+5c09,尉,2124,1095,1176,officer
+6170,慰,2125,1096,1177,console (cheer up)
+916a,酪,2126,1433,1541,dairy products
+9175,酵,2127,1430,1538,ferment
+91a4,醤,2128,2746,2774,soy sauce
+9162,酢,2129,1434,1542,vinegar
+914e,酎,2130,2748,1537,shochu (japanese distilled liquor)
+914c,酌,2131,1429,1536,pour wine
+91e3,釣,2132,273,291,angle
+755c,畜,2133,1384,1485,(raise) livestock
+84c4,蓄,2134,1385,1486,store up
+7384,玄,2135,1383,1484,profound (occult)
+7729,眩,2136,2581,2629,dazzling
+545f,呟,2137,,,mutter
+56c1,囁,2138,2157,2279,whisper
+558b,喋,2139,2158,2280,speak (chat)
+55a9,喩,2140,,308,liken
+9b31,鬱,2141,,2120,"depression, congested"
+5f26,弦,2142,1386,1487,string (of a bow or musical instrument)
+8237,舷,2143,2675,2015,gunwale
+8235,舵,2144,2674,2715,rudder
+5e7b,幻,2145,1862,2006,phantom (illusion)
+5e7d,幽,2146,1380,1480,quiet and secluded (deep hidden)
+5e7c,幼,2147,1378,1478,very young
+7a1a,稚,2148,896,962,child
+7dad,維,2149,1341,1441,fiber (hold together)
+63a8,推,2150,663,716,"infer, push forward"
+5806,堆,2151,2185,596,pile up
+690e,椎,2152,2505,597,"spine, chinquapin"
+810a,脊,2153,2071,268,spine
+96db,雛,2154,2085,2230,chick (doll)
+8ab0,誰,2155,2712,598,who
+552f,唯,2156,556,595,merely (only)
+9cf4,鳴,2157,1942,2092,"cry (chirp), sound"
+4ea5,亥,2158,1519,1637,sign of the boar
+523b,刻,2159,1521,1639,"engrave (carve), point in time"
+52be,劾,2160,1523,1642,expose crimes
+6838,核,2161,1520,1638,nucleus (core)
+9ab8,骸,2162,2874,1641,body (skeleton)
+54b3,咳,2163,2162,2283,cough
+8a72,該,2164,1522,1640,correspond to
+8a3a,診,2165,1724,1860,examine a patient
+73cd,珍,2166,1723,1859,rare (curious)
+74e6,瓦,2167,1031,1108,tile (brick)
+4f75,併,2168,1030,1107,put together
+74f6,瓶,2169,1032,1109,bottle (jar)
+5c4f,屏,2170,2223,2333,fence (folding screen)
+5840,塀,2171,1056,1136,fence (wall)
+9905,餅,2172,2802,1590,rice cake
+990c,餌,2173,2797,1588,"feed, bait"
+5451,呑,2174,2080,2225,swallow (gulp)
+6c83,沃,2175,2079,459,fertility
+5996,妖,2176,2078,458,bewitching
+546a,呪,2177,2169,108,charm (curse)
+8276,艶,2178,1755,1892,"charming (voluptuous, glossy), romance"
+6148,慈,2179,1389,1490,affectionate (compassionate)
+6ecb,滋,2180,1388,1489,nourish
+78c1,磁,2181,1390,1491,magnetism
+64c1,擁,2182,1387,1488,embrace (protect)
+8150,腐,2183,1023,1099,rot (decay)
+82af,芯,2184,2368,647,core
+8494,蒔,2185,2395,2476,sow
+6492,撒,2186,2271,2369,scatter
+64a4,撤,2187,760,822,withdraw
+5fb9,徹,2188,886,951,go through (with)
+5fae,微,2189,889,954,slight (minute)
+5fb4,徴,2190,887,952,"levy (impose), sign"
+61f2,懲,2191,888,953,chastise
+6b86,殆,2192,2871,2884,"almost (quite, really)"
+540e,后,2193,1861,2005,empress
+57a2,垢,2194,2187,2302,dirt
+5983,妃,2195,527,566,(married) princess
+59eb,姫,2196,849,912,daughter of noble birth (princess)
+5982,如,2197,100,104,as (if)
+8339,茹,2198,,,boil
+5a7f,婿,2199,395,422,son-in-law
+5a18,娘,2200,1471,1581,"daughter, girl"
+5ac1,嫁,2201,542,581,"wed a man, bride"
+7a3c,稼,2202,893,959,work (for a living)
+585a,塚,2203,1039,1117,mound
+8c6a,豪,2204,543,582,"great man, magnificent"
+8499,蒙,2205,2384,2467,"ignorance (darkness), phonetic mou"
+58be,墾,2206,1971,2124,clear land for farming
+61c7,懇,2207,1970,2123,"familiar (intimate), earnest"
+8c8c,貌,2208,2733,2125,appearance
+9010,逐,2209,539,578,"drive out, one by one"
+9042,遂,2210,540,579,accomplish (carry out)
+589c,墜,2211,1307,1404,drop down
+5815,堕,2212,1314,1411,degenerate (descend)
+968f,随,2213,1298,1395,follow
+9644,附,2214,1303,1400,"attach (be attached to, hand over)"
+9ac4,髄,2215,1290,1385,marrow
+6020,怠,2216,745,806,idle
+60f0,惰,2217,629,676,lazy
+4f50,佐,2218,952,1024,"assist, field officer"
+73a9,玩,2219,2567,276,play with
+5f04,弄,2220,2558,731,play with
+5632,嘲,2221,2155,54,ridicule
+5954,奔,2222,1196,1280,rush
+5f0a,弊,2223,1041,1120,evil practice
+5e63,幣,2224,1040,1118,"currency, shinto paper offering"
+853d,蔽,2225,2358,1119,cover
+670b,朋,2226,19,19,comrade
+68da,棚,2227,202,214,shelf
+67f5,柵,2228,2507,1968,fence
+6841,桁,2229,2483,956,"digit, beam (girder)"
+6813,栓,2230,264,282,stopper (spigot)
+8a6e,詮,2231,2717,360,inquiry
+585e,塞,2232,2214,1646,plug up (obstruct)
+6897,梗,2233,2498,751,block
+67ff,柿,2234,2481,441,persimmon
+85e4,藤,2235,1210,1295,wisteria
+9a30,騰,2236,1989,2144,rise (jump up)
+8b04,謄,2237,1211,1296,transcribe (copy)
+9eba,麺,2238,2752,2040,noodles
+62c9,拉,2239,,696,kidnap (pull)
+6643,晃,2240,2446,2522,dazzling
+5e4c,幌,2241,410,438,awning (hood)
+5398,厘,2242,178,190,rin (0.001 yen)
+755d,畝,2243,1017,1093,ridge
+5301,匁,2244,1027,1104,monme (3.75 grams)
+5302,匂,2245,2147,478,small (fragrance)
+52fe,勾,2246,2148,800,bent (sloping)
+6328,挨,2247,2248,1310,greet
+62f6,拶,2248,2261,713,greet
+66d6,曖,2249,2437,797,not clear
+6627,昧,2250,2445,231,dark
+7460,瑠,2251,2555,1528,lapis lazuli
+7483,璃,2252,2048,1606,glassy substance
+5ac9,嫉,2253,2202,1820,envy
+59ac,妬,2254,2195,123,envy
+9e7f,鹿,2255,1999,2154,deer
+5875,塵,2256,2838,2853,dust (trash)
+9e93,麓,2257,2839,2155,foot of a mountain
+9e97,麗,2258,2002,2158,of graceful beauty
+85a6,薦,2259,2000,2156,recommend
+6176,慶,2260,2001,2157,felicitation (rejoicing)
+515c,兜,2261,2854,2870,helmet
+7768,睨,2262,,,glare at
+9f20,鼠,2263,2065,2856,rat (mouse)
+6eba,溺,2264,2308,1324,drown (indulge in)
+6f5f,潟,2265,2039,2196,lagoon
+6fc1,濁,2266,835,898,turbid
+6e07,渇,2267,451,488,"run dry, thirst"
+8910,褐,2268,453,490,brown
+845b,葛,2269,2398,492,kudzu (arrowroot)
+559d,喝,2270,454,491,shout at
+8b01,謁,2271,452,489,be granted an audience
+63b2,掲,2272,673,726,put up (display)
+620c,戌,2273,,,sign of the dog
+5c24,尤,2274,2087,2232,reasonable (plausible)
+99c4,駄,2275,1986,2140,"good for nothing, clogs"
+99d2,駒,2276,1979,2133,"horse (pony), chess piece"
+7be4,篤,2277,1988,2142,"serious, kind"
+7f75,罵,2278,2699,2143,speak ill of
+8511,蔑,2279,2390,392,scorn
+7f60,罠,2280,,,trap
+70cf,烏,2281,1944,2094,raven (crow)
+9d28,鴨,2282,2835,2850,duck
+9ce9,鳩,2283,1946,2096,pigeon
+9d8f,鶏,2284,1947,2097,chicken
+6e13,渓,2285,840,903,ravine
+9df9,鷹,2286,2237,2344,hawk
+9df2,鷲,2287,2834,2849,eagle
+74bd,璽,2288,2075,2194,imperial seal
+723d,爽,2289,2855,1608,refreshing
+7db4,綴,2290,2073,2222,"stitch together (bind), compose (spell)"
+6851,桑,2291,698,754,mulberry
+8695,蚕,2292,523,562,silkworm
+86cb,蛋,2293,2683,2723,egg
+87f9,蟹,2294,2682,2722,crab
+868a,蚊,2295,1728,1864,mosquito
+5df3,巳,2296,2042,2200,sign of the serpent
+86c7,蛇,2297,519,558,snake
+7e6d,繭,2298,1880,2025,cocoon
+8776,蝶,2299,521,560,butterfly
+8679,虹,2300,520,559,rainbow
